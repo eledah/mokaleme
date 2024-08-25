@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Argument Visualization</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; display: flex; flex-direction: column; align-items: center; }
+        #mainArgument { font-size: 24px; font-weight: bold; margin-bottom: 20px; text-align: center; }
+        #chart { margin: 20px auto; }
+        #error { color: red; margin-top: 10px; }
+        #controls { position: fixed; bottom: 20px; text-align: center; }
+        #backButton { display: none; margin-right: 10px; }
+    </style>
+</head>
+<body>
+    <div id="mainArgument"></div>
+    <div id="chart"></div>
+    <div id="error"></div>
+    <div id="controls">
+        <button id="backButton">Back</button>
+        <input type="file" id="fileInput" accept=".csv">
+    </div>
+    <script src="visualization.js"></script>
+</body>
+</html>

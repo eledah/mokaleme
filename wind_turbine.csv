@@ -1,0 +1,36 @@
+id,text,parent_id,weight,sentiment
+1,"Wind energy is better than coal energy",,8,1
+2,"Wind energy is renewable",1,9,1
+3,"Coal is a finite resource",2,8,1
+4,"Wind turbines can harm birds",1,6,-1
+5,"Coal mining is destructive to landscapes",1,7,1
+6,"Wind energy has lower carbon emissions",1,9,1
+7,"Coal plants contribute to air pollution",6,8,1
+8,"Wind farms take up large areas of land",1,5,-1
+9,"Coal is more reliable for baseload power",1,7,-1
+10,"Wind energy costs are decreasing",1,8,1
+11,"Coal mining provides more jobs",1,6,-1
+12,"Wind turbines have visual impact on landscapes",1,5,-1
+13,"Coal ash disposal is environmentally harmful",1,7,1
+14,"Wind energy requires no water for cooling",1,6,1
+15,"Coal power plants require significant water",14,7,1
+16,"Wind energy has no fuel costs",1,8,1
+17,"Coal prices can be volatile",16,7,1
+18,"Wind energy technology is improving rapidly",1,7,1
+19,"Offshore wind has huge potential",18,8,1
+20,"Coal plants can be built closer to cities",1,6,-1
+21,"Wind energy has lower long-term costs",1,7,1
+22,"Initial investment for wind farms is high",21,6,-1
+23,"Coal contributes to acid rain",7,7,1
+24,"Wind farms can benefit rural economies",1,6,1
+25,"Coal mining can cause health issues for workers",1,7,1
+26,"Wind energy production is intermittent",1,8,-1
+27,"Energy storage can solve intermittency",26,7,1
+28,"Coal plants are faster to construct",1,6,-1
+29,"Wind farms have shorter construction time",28,7,1
+30,"Coal energy has more stable output",1,7,-1
+31,"Smart grids can manage variable wind output",30,6,1
+32,"Wind turbines have shorter lifespans than coal plants",1,5,-1
+33,"Wind turbines are easier to decommission",32,6,1
+34,"Coal mining can contaminate groundwater",1,7,1
+35,"Wind energy promotes energy independence",1,8,1

@@ -1,0 +1,36 @@
+id,text,parent_id,weight,sentiment
+1,"Renewable energy is better than fossil fuels",,10,1
+2,"Renewable energy is sustainable",1,8,1
+3,"Fossil fuels are finite",2,7,1
+4,"Renewable energy has lower carbon emissions",1,9,1
+5,"Fossil fuels contribute to climate change",4,8,-1
+6,"Renewable energy can be intermittent",1,6,-1
+7,"Energy storage technologies are improving",6,7,1
+8,"Fossil fuels are currently more reliable",1,7,-1
+9,"Renewable energy costs are decreasing",1,8,1
+10,"Initial investment for renewables is high",9,6,-1
+11,"Long-term costs of renewables are lower",9,7,1
+12,"Fossil fuels have established infrastructure",8,6,1
+13,"Renewable energy creates more jobs",1,7,1
+14,"Fossil fuel jobs are being phased out",13,6,-1
+15,"Renewable energy has diverse sources",1,8,1
+16,"Solar energy is abundant",15,7,1
+17,"Wind energy is widely available",15,7,1
+18,"Geothermal energy is location-dependent",15,5,-1
+19,"Hydroelectric power affects ecosystems",15,6,-1
+20,"Fossil fuels cause air pollution",5,8,1
+21,"Renewable energy improves air quality",20,7,1
+22,"Fossil fuels lead to respiratory issues",20,6,1
+23,"Renewable energy reduces healthcare costs",21,6,1
+24,"Fossil fuels are easier to transport",8,6,1
+25,"Renewable energy can be generated locally",24,7,-1
+26,"Fossil fuels have higher energy density",24,7,1
+27,"Renewable energy promotes energy independence",1,8,1
+28,"Fossil fuels are subject to price volatility",27,7,1
+29,"Renewable energy has stable long-term pricing",27,6,1
+30,"Fossil fuels can cause environmental disasters",5,7,1
+31,"Oil spills damage ecosystems",30,8,1
+32,"Renewable energy has lower environmental risk",30,7,-1
+33,"Fossil fuels are more flexible in use",8,6,1
+34,"Renewable energy requires grid modernization",6,7,1
+35,"Smart grids enhance energy efficiency",34,8,1
