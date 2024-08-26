@@ -1,0 +1,672 @@
+id,text,parent_id,weight,sentiment
+1,"Thesis: Nuclear power (fission [1]) is desirable for sustainable energy production.","",5,1
+2,"Nuclear power is the most economical choice.",1,5,1
+3,"Nuclear power plants can also very efficiently generate hydrogen, a carbon-free fuel usable in electric fuel cells and internal combustion engines.",2,5,1
+4,"Nuclear plants can electrolyze or thermolyze ocean water into hydrogen.",3,5,1
+5,"Any conventional electric generation source can electrolyze ocean water.",4,5,-1
+6,"Hydrogen fuel cells are less efficient than the power grid.",3,5,-1
+7,"Not all energy can be distributed through an electricity grid.",6,5,-1
+8,"Vehicles (cars, ships, planes) require an internal power source. They can't be plugged into the grid and move at the same time.",7,5,1
+9,"The use of Heat for thermolysis of water and hydrogen storage can be considered as an effective solution for load displacement and energy storage resulting in greater efficiency of the electricity grid to balance stochastic renewables and to match demand.",6,5,-1
+10,"All-electric vehicles manage an overall power-plant-to-wheel efficiency rating of 73 percent, compared to 22 percent for hydrogen fuel cell vehicles www.greencarreports.com [2] insideevs.com [3]",6,5,1
+11,"Power grid transmission is 85% to 95% efficient. hub.globalccsinstitute.com [4] blog.schneider-electric.com [5] www.eia.gov [6]",6,5,1
+12,"The synergy of multiple production processes can boost the system efficiency of nuclear stations (oecd-nea.org [7]) (www4vip.inl.gov [8]). Synergy of multiple production processes is high-temperature heat from high-temperature gas-reactors used to efficiently create hydrogen, as a fuel or resource for the industry.",3,5,1
+13,"Hydrogen is an impractical and dangerous way to store energy.",3,5,-1
+14,"The specific energy of liquefied hydrogen (energy by weight) is 3x that of conventional fuels. This is important for replacing aviation fuels.",13,5,-1
+15,"Liquid hydrogen must be kept at very low temperatures (< 33 Kelvin) to remain stable as a liquid. To do so requires special cryogenic storage, which if compromised or improperly vented, would mean the liquid could very rapidly boil-off to over 845x its volume as a gas. Hydrogen can become dangerous far quicker than similar fuels, such as gasoline, due to how quickly it can evaporate and fill an area with combustible gas, and due to its specific energy. (airproducts.com [9])",13,5,1
+16,"Even when liquified, hydrogen's energy density is 1/4 that of gasoline.",13,5,1
+17,"Liquefied hydrogen at 4x the volume of gasoline is still practical for land transport applications.",16,5,-1
+18,"There are many other ways to store hydrogen [10] besides cryogenic storage.",13,5,-1
+19,"There are other more economical ways of generating power.",2,5,-1
+20,"A Traveling-Wave Reactor [11] (TWR) can function, for the most part, on waste uranium which is a byproduct of the current reactor design.",19,5,1
+21,"As it runs on its own waste, making and consuming its own fuel, It doesn't require constant refuelling and waste removal. The companies currently developing TWR believe this makes nuclear power safer and cheaper.",20,5,1
+22,"There is no such industrial reactor, therefore this is not a solution (only a hope).",20,5,-1
+23,"Liquid Fluoride Thorium Reactors are far safer [12] then other nuclear and dirty plants and cheaper [13] then most power generating methods.",19,5,1
+24,"According to the US Energy Information Administration (EIA) [14], nuclear power is only the second most economic choice (behind large scale water power), but costs about ⅔ of the next cheapest option.",2,5,-1
+25,"They don't include the costs for caring for radioactive waste for the next millions of years nor do they include the costs that disasters could cause.",24,5,-1
+26,"When waste management is included [15], nuclear power does not seem very cost effective compared to wind and PV.",25,5,1
+27,"The cost of the storage bunker for nuclear waste material makes nuclear fission an uneconomical [16] choice. For example, nuclear waste management cost up to $65 billion in USA.",26,5,1
+28,"Costs can be expected to skyrocket during the millennia.",26,5,1
+29,"Waste management needs to continue for 100.000 or 1.000.000 years or so. Mankind has no experience whatsoever providing anything that properly functions that long. Doing anything for the first time tends to provide unpleasant surprises. So we set ourselves up for an unpleasant surprise (sometime within those 100.000 or 1.000.000 years).",28,5,1
+30,"No matter what solution we come up with it will not have been attempted before, this is no reason not to try.",29,5,-1
+31,"Nuclear waste from the Uranium Fuel Cycle is approximately 1/300th [17] the waste produced by solar panels, when generation is compared in cubic meters per kWh of energy produced [18].",26,5,-1
+32,"This comparison does not take into account the toxicity of the waste",31,5,-1
+33,"The comparison looks at cubic meters of waste produced per TWh of energy generated. Volumes of waste, not toxicity nor what can be done with the waste (Recycled, reused, etc.).",32,5,1
+34,"This is an irrelevant analysis, comparing m3 for waste with wildly varying properties. It is not about the amount of waste, but about the impact of the waste produced, and the required treatment for it.",31,5,-1
+35,"Solar panels (and racking) can be 100% recycled [19], including being turned into new solar cells [20].",31,5,-1
+36,"When all external costs are included, wind and PV do not seem very cost effective compared to nuclear.",26,5,-1
+37,"Newer reactor designs can use most of the long-lived ""waste"" as fuel [21]. The remaining radioactive waste is minuscule in volume and can be safely stored on-site.",26,5,-1
+38,"If liquid fuel is used, it can remain in the reactor longer than traditional solid fuel [22] (which begins to break down, and therefore needs to be removed, after just 4% of its potential energy is used [23]). This allows more of the fuel to be efficiently used, reducing the amount of waste that is generated.",37,5,1
+39,"Nuclear Waste can be completely reprocessed in modern reactors such as the Fast Neutron Molten Salt Reactor [24], resulting in a mass of fission products of less than 5% and a reduction from approximately 24,000 to 300 years until radioactive decay falls below background radiation.",37,5,1
+40,"This is true for future societies, but at our current rate we do not have time to create these modern reactors, especially since most countries today have old reactors in use. The transisition to newer reactors would take too long",39,5,-1
+41,"The mean time to build a nuclear power plant is 7.5 years [25].",40,5,-1
+42,"The deployment time for nuclear power is much longer than seven years [26]. It takes approximately thirty years for full deployment. In contrast, renewable energy takes approximately nine years, and results in more energy generation.",41,5,-1
+43,"The US has existing nuclear generation, many of which can be safely retrofitted to last until the 2030's.",41,5,-1
+44,"The developing world has a greater rate of energy growth than the US and has been successful in procuring nuclear generation built by South Korea, China, or Russia. For example the NPP's in the UAE coming online in 2018.",41,5,-1
+45,"Fermi 1 and 2 were constructed in approximately 7 and 13 years respectively in circa 1960s. [27]",41,5,1
+46,"Radioactive waste radiating another 300 years is not ""completely reprocessed"", and safe storage of that waste is still an issue.",39,5,-1
+47,"The volume is so much smaller that it could be stored on site.",46,5,-1
+48,"This concept [28] provides us with enough fuel for the next hundred years, without mining for new uranium.",37,5,1
+49,"Those are only operating expenses. The total cost of energy produced (LCOE) [29] of nuclear is way higher than nearly all other types of energy sources.",24,5,-1
+50,"Traditional nuclear facilities in the United States waste about 96% [30] of the possible energy they could extract from their uranium fuel.",2,5,-1
+51,"If nuclear power plants could be made more efficient than they currently are (and there are several possible ways [31] of doing this) then nuclear power might be easily able to out-compete other forms of power.",50,5,-1
+52,"Nuclear power plants are expensive to build but relatively cheap to run: the operating cost of these plants is lower [32] than almost all fossil fuel competitors.",2,5,1
+53,"Long build times and enormous capital outlays for nuclear fission reactors are economically uncompetitive [33] in market of fast build wind/solar + batteries which have rapidly diminishing construction costs and TCO.",52,5,-1
+54,"A new nuclear plant in the U.S. costs about $9 billion [34] to build. This is more than 1,000 times as much as a new fracking well, and more than 3 times as much as the world’s biggest and most expensive solar plant.",52,5,-1
+55,"The world's most expensive solar plant is the Crystal River plant [35] in Florida, which will cost $6 billion dollars, approximately the same cost as one of the originally planned AP-1000 reactors that were to be built. It will also put out approximately 10/57ths the output.",54,5,-1
+56,"Nuclear does not need to cost as much as it does.",54,5,-1
+57,"A large cost in the construction of nuclear power plants is red tape.",56,5,1
+58,"Costs can be brought down by the re-use of existing designs, which speeds up regulatory approval and reduces engineering costs.",56,5,1
+59,"Small modular reactors [36] can be mass-produced in a factory and then used as drop-in replacements for coal-fired boilers [37], thus re-using existing turbines, generators, and transmission lines.",56,5,1
+60,"Numerous small-scale reactors increases the risk of security breaches and safety hazards",59,5,-1
+61,"Small modular reactors would be sealed at the factory and buried on site.",60,5,-1
+62,"Small modular reactors are currently mostly unproven [38], mere designs.",59,5,-1
+63,"People generally do not like to live close to a nuclear power plant.",59,5,-1
+64,"The absolute cost is much less important than the cost per watt. Nuclear plants have extremely high output, so they're quite competitive in terms of necessary cost.",54,5,-1
+65,"The levelized cost of energy of nuclear power is over three times that [39] of some renewable sources (onshore wind and solar).",52,5,-1
+66,"The IEA provides a much less biased view of LCOE for energy sources, and they rank nuclear as one of the lowest cost baseload technologies Projected Costs of Generating Electricity [40] Off Shore Wind can be very low cost, but it is not the technology for base load power.",65,5,-1
+67,"The minimum [41] cost per megawatt hour to build a new nuclear plant is $112, compared to $40 for utility-scale solar, $41 for combined cycle gas, and $29 for wind.",65,5,1
+68,"Nuclear fission is economically obsolete. Comparative Costs per Megawatt Hour [42]",65,5,1
+69,"Utility scale renewables now cost less per KWH over a 20 year life cycle than any other means of power production. Costs continue to drop 10%-20%+ per year.",68,5,1
+70,"The linked document specifically said they didn't account for certain factors, like intermittency of the renewable sources. These cannot be used for baseload power generation without grid-scale energy storage, which would greatly increase the cost. Nuclear doesn't have that problem.",65,5,-1
+71,"Lazard's costs are US-centric and are reflecting first-of-a-kind nuclear plants built by inexperienced supply chains. Series production costs are far lower in e.g. China and South Korea and would be so in the US too, according to how industrial learning works in general. Historical construction costs of nuclear reactors. [43]",65,5,-1
+72,"-> See 1.1.3.1.1.",52,5,-1
+73,"-> See 1.1.5.2.",2,5,-1
+74,"Nuclear power plants can be built fast.",2,5,1
+75,"We don't know anymore how to build nuclear reactors quickly and at realistic cost (see such projects since year 2000: nuclear production is declining [44], albeit there were and are many active projects aiming at building reactors). Fixed costs (mining uranium, designing reactors, safety agencies, waste management logistics...) are high and necessary for any amount of reactors. Paying all this for a few reactors leads to a very expensive system, distracting resources from more efficient tools.",74,5,-1
+76,"Nuclear deployment rates have been faster [45] than all renewable energy deployment rates in countries that have committed to nuclear power, such as Sweden and France.",74,5,1
+77,"During the 1970's and 1980's France and Sweden did build nuclear reactors. In Sweden there is no new reactor since 1980 [46], and in France since 1999 [47]. France tries hard to build a new reactor since 2007, it is a failure [48]. The trend is quite clear [49]. Moreover the article you link to (dating back 2016) is not about this but about a potential cooperation between US and China which failed to materialize.",76,5,-1
+78,"The scope of planning for nuclear power plants is putting nuclear energy at a disadvantage.",74,5,-1
+79,"It takes at least 5 years to set up the legal and regulatory infrastructure for a nuclear power programe, 2 to 10 years to license a new plant, and about 5 to 12 years to build it. That means a ""minimum lead time of 15 years [50]"" before a new nuclear power plant can be started up in a country that does not already have the required infrastructure..",78,5,1
+80,"New nuclear (fission generated) power plants can only be deployed in a megaproject scale ($1B or more, multiyear construction time). Megaprojects are by nature slow endeavors and require a centralized political setting.",78,5,1
+81,"The Akademik Lomonosov [51] was completed in just 3 years at a cost of $232 million, proving the parent false by counterexample.",80,5,-1
+82,"The same source quoted by the parent, it said that the final cost was 700 million and the power output is just 70 MW, this is more expensive compared to 1 GW of power from a normal nuclear plant which cost round the 6 Billions.",81,5,-1
+83,"Most renewables can be deployed faster.",78,5,1
+84,"Most renewables can to some degree scale with their environment and the social and political configuration present.",78,5,1
+85,"That fails to take into account the area required to produce that power.  If you wanted to power Los Angeles solely with wind and solar, you'd have to cover thousands of square miles with solar powers or turbines to even come close.",84,5,-1
+86,"Puerto Rico, which only has 3/4 the population of Los Angeles (city), plans to use only renewable energy [52] by 2050.",85,5,-1
+87,"-> See 1.1.5.2.2.3.",74,5,1
+88,"-> See 1.1.3.1.1.5.2.1.1.",74,5,1
+89,"Solar is the cheapest [53] power in the world.",2,5,-1
+90,"The price of solar power depends on the region heavily [54].",89,5,-1
+91,"Solar power is not always available (for example in the night). This increases the price of energy from other power plants because of shifting the fixed costs to a shorter time window.",89,5,-1
+92,"Solar power can be combined with energy storage as well as other renewable energy-based intermittency management options [55].",91,5,-1
+93,"All nuclear plants work as thermal plants; the cost to convert heat into electricity already sets an under limit to how cheap nuclear could become.",2,5,-1
+94,"To avoid this under limit that Power thermal plants have, some Fusion techs are already working on different types of reactions that would produce charged particles. This gives them the option to extract the power using coils, which is known as ""direct conversion"". Helion Polaris [56] is one of those approaches.",93,5,-1
+95,"This could only work on some fusion reactions, not on fission. The best direct conversion approach to fission that was suggested is using special photovoltaic cells for infrared, but this approach would under perform vs the classic reheat steam turbine.",94,5,-1
+96,"Coal, Geothermal, Biomass pellets, Solar Thermal and Nuclear use similar thermal cycles composed of two steam turbine cycles with a cooling tower or a heat exchanger, which represent from 20% to 33% the total LCOE of Nuclear taking into account the capital cost, maintenance and operation cost of these systems. Page 29 Nuclear cost by components [57]",93,5,1
+97,"This claim is false and not supported by any evidence/data. For example LCOE electricity prices by source over time [58] – which don't capture nuclear's full costs – already show nuclear is not only not the ""most economical choice"" but one of the most [59] expensive [60] ones.",2,5,-1
+98,"Nuclear power is the lowest-cost form of power per MWh as it is only 21 USD [61] per MWh.",2,5,1
+99,"Although nuclear power has low-cost per KWH in the long run, the front-end capital investment per KW of capacity is extremely high. In a marketplace economy, investors must be found to take on such risks and nuclear power is simply not competitive compared to other forms of power that require less capital, and much quicker and safer returns.",98,5,-1
+100,"The market price for new build in Europe is nearly 10p per kWh [62], and that is before costing in disposal etc.",98,5,-1
+101,"The 21 usd/MWh quoted is the ""production cost"", in other sources this is called the marginal cost, this is not the true LCOE cost for Nuclear. Production cost only represent the operation, fuel and maintenance cost, ignoring the capital and financing cost (which accounts for at least 60% of their LCOE), it also ignores the capital cost required to extend the lifespan of nuclear plants.",98,5,-1
+102,"The source for that cost estimation is the Institute for Energy Research [63] which appears to be an unreliable lobby organization and ""has been described as a front group for the fossil fuel industry"" which funds it.",98,5,-1
+103,"China is working on reducing the cost of nuclear reactors, for instance at the Yangjiang nuclear power plant, where six 1GW reactors are being built for the cost of only $10.2 billion [64].",98,5,1
+104,"In China they have different safety levels than in Europe or Canada and can build cheaper reactors.",103,5,-1
+105,"According to a presentation by Yun Zhou [65] at Harvard's Belfer centre, China ""has an incomplete regulatory system"" for its power plants.",104,5,1
+106,"In a presentation Yun Zhou [66] gave at Harvard's Belfer Centre he concludes that ""China’s nuclear safety regime is on par with global standards"".",104,5,-1
+107,"Assuming that same capital cost by reactor quoted in the parent, which give us 1666 usd/kW (this is incredible low for nuclear) china assume an LCOE for nuclear at 58 usd/MWh taking into account a capital cost of 1880 usd/kW, this LCOE is still incredible low vs the world average Page 4 [67]",103,5,-1
+108,"-> See 1.1.3.1.1.",98,5,-1
+109,"Nuclear power is getting more expensive due to increased safety requirements when renewable sources are scaling, improving and seeing costs significantly come down, even offshore wind.",98,5,-1
+110,"An analysis [68] of the history of reactors concluded the following: nuclear power projects are more expensive than in the early 1980s and nuclear construction lead times have increased two-fold in the past 50 years.",109,5,1
+111,"Increased safety regulations [69] has made factory designs more complex and correspondingly more costly. The development of new and simpler reactor designs may lower the costs of nuclear power.",109,5,-1
+112,"The cost of renewable energy has been steadily declining [70] for the last ten years.",109,5,1
+113,"The UK Hinkely Point nuclear power station project has a guaranteed price of 92.5 GBP/MWh [71] (about 66 USD/MWh) whereas the latest offshore tenders came in at 57.5 GBP/MWh [72] (about 41 USD/MWh).",98,5,-1
+114,"A different project approach at Hinkley Point could have reduced the electricity price to £48.50 per megawatt hour [73]",113,5,-1
+115,"This is an apples to oranges comparison. The nuclear power figure represents a steady base load source, while the wind power is intermittent. Most of the time you won't get the maximum wattage and the energy will have to come from other sources. In practice, this means expensive ""peaker plants [74]"" burning fossil fuels to even it out. Therefore, wind is still more expensive.",113,5,-1
+116,"New nuclear has to have extremely high guaranteed prices for energy produced in order to convince anyone to build them. en.wikipedia.org [75]",98,5,-1
+117,"-> See 1.1.11.8.",116,5,1
+118,"-> See 1.1.11.7.",2,5,-1
+119,"Fuel for nuclear energy will last a very long time.",1,5,1
+120,"Collecting uranium dissolved in seawater and processing it in breeder reactors could supply Earth's energy needs for 5 billion years [76].",119,5,1
+121,"Although theoretically appealing, it is still not feasible. One still needs to enrich the extracted uranium.""We have a lot of work to do still but these are big steps toward practicality"" [77]",120,5,-1
+122,"Breeder reactors produce more fissile material than they consume [78], by transmuting it from fertile material, such as natural (unenriched) or even depleted uranium.",121,5,-1
+123,"After decades of research in many nations, there is no industrial breeder reactor working OK. The most successful was Russia's BN-800 but in 2015 ""problems at the recently completed BN-800 indicated a redesign was needed. Construction of the BN-1200 was put on 'indefinite hold' [79].",122,5,-1
+124,"Extracting the uranium by pumping seawater would require more energy [80] than can be produced with the recovered uranium.",121,5,1
+125,"It may be alleviated by coupling this extraction with another goal, mainly desalination [81], however this is not everywhere sound and possible.",124,5,-1
+126,"See for example the Barakah plant [82] being finished now (field work started in 2012): it pumps 100 cubic meters of sea water per second(!) and desalination wasn't even considered, albeit the United Arab Emirates aren't exactly shock-full of water [83].",125,5,1
+127,"Enrichment is not required. A traveling wave reactor [84] can run on natural or even depleted uranium. It does need an initial neutron source, but this could be done with some kind of neutron generator [85], like a fusor [86] if enriched uranium becomes too expensive.",121,5,-1
+128,"Albeit theoretically possible this is, for the time being, nothing more than an old dream after decades of R&D in many nations: the concept is still in the development stage and no TWRs have ever been built [87].",127,5,-1
+129,"Fuel prices for nuclear energy are rising as supplies of fuel decline.",119,5,-1
+130,"Even if prices are not currently rising, we can reasonably expect them to rise as supplies of uranium decline in the future.",129,5,1
+131,"Stock prices show signs of an inverse relationship to uranium prices. In 2008 [88] the stock market went down and uranium rose. Since then there has been a consistent decline in uranium prices.",129,5,-1
+132,"This was unrelated to the stock market and uranium prices are relatively constant since the ""uranium bubble of 2007(!)""",131,5,-1
+133,"This is the exact opposite of reality. Uranium ore is close to its historical lows [89], and in inflation adjusted terms it's about 1/8th the price it was in the 1960s.",131,5,1
+134,"Fuel for nuclear reactors is a small amount of the operating cost, so even if the price increases substantially it still won't account for much.",129,5,-1
+135,"The cost of uranium is capped at the cost to extract it from seawater.",129,5,-1
+136,"Pumping the seawater to extract this uranium would need more energy than what could be produced with the recuperated uranium [90].",135,5,-1
+137,"With the increase in demand which would come about from a greater reliance on nuclear power the amount of fuel needed will also increase. We would run out of fuel faster in this case.",119,5,-1
+138,"Based on our existing nuclear reactor fleet and projected growth, our existing uranium reserves will only allow them to run [91] for 40 years.",137,5,1
+139,"The more we obtain uranium (prospecting, mining, milling...), the more we add to the associated carbon footprint. Therefore a sustained growth of installed nuclear capacity will lead us to exploit mines at always lowering ore grades, leading to more emissions [92].",138,5,1
+140,"Because modern fission energy provides electrical and medium temperature thermal energy there is not necessarily a parasitic effect in adopting fission.",137,5,-1
+141,"Jevons paradox [93] is the effect where increased energy availability or increased efficiency results in greater consumption. This results in a less than perfect benefit, but still a net gain.",137,5,-1
+142,"Even when supplies of uranium fuel become exhausted, thorium [94] fuel could be used as an alternative.",119,5,1
+143,"Nuclear plant manufacturers don't like thorium.",142,5,-1
+144,"Businesses can only make small profit margins selling thorium fuel, so few are willing to do it.",143,5,1
+145,"Zircalloy cladding is a complex technology and centrifuging is IAEA controlled. Thorium (LFTR) and other MSR technology does not use solid fuel manufacturing process. This may eliminate some ""rent seeking"" opportunities.",144,5,1
+146,"Non-proliferation controls [95] are complicated in a liquid fuel process. The reason to avoid Thorium is not entirely profit motivated.",143,5,-1
+147,"There is no industrial thorium-fueled reactor.",142,5,-1
+148,"Nuclear reactors use very little fuel.",119,5,1
+149,"To power the world, it would only take 7,000 tonnes [96] of uranium fuel each year.",148,5,1
+150,"In comparison [97] it would take 10.4 billion tonnes of gas, 24 billion tonnes of coal or 12 billion tonnes of oil to power the world.",149,5,1
+151,"One uranium fuel pellet creates as much energy as one ton of coal, 149 gallons of oil, or 17,000 cubic feet of natural gas (NEI, 2020 [98]).",148,5,1
+152,"Nuclear fuel is not infinite, which means it will run out at some point. This makes it unsustainable in the long run.",119,5,-1
+153,"-> See 1.2.1.",152,5,-1
+154,"At the current rate of consumption, the world supply of viable uranium will last for only 80 years. Nuclear power is not [99] sustainable nor renewable.",152,5,1
+155,"New reactor generations can also use Thorium, Plutonium and other elements in addition to Uranium. There are plenty of them. See nuklearia.de [100], or scienceandglobalsecurity.org [101]",154,5,-1
+156,"Closing the fuel cycle with Generation IV reactors [102] will make efficient use of U238 and increase by thousand years the availability of nuclear fuel.",119,5,1
+157,"A closed fuel cycle [103] is one in which spent fuel is fully reprocessed and reused.",156,5,1
+158,"Generation IV reactors are currently in research and development [104]. Their supposed benefits have not been backed up by public science, and should be treated as goals and claims rather than a reliable reality.",156,5,-1
+159,"A combination of alternative energy sources could avoid the need for nuclear power.",1,5,-1
+160,"Hydroelectric power is an alternative renewable and green energy source.",159,5,1
+161,"Hydroelectric power [105] produces very large amounts of greenhouse gases when land is dammed and vegetation rots.  The worst [106] hydro plants produce more than twice as much greenhouses gases as the worst coal plants.",160,5,-1
+162,"While this is ultimately unavoidable in areas where reservoirs are created anew and thus much vegetation is flooded, it is controllable in magnitude and finite in duration: reservoirs do not grow and grow, and decaying vegetation cannot release greenhouse gases forever.",161,5,-1
+163,"Hydro reservoirs can also have the capability of enabling irrigated agriculture [107] in communities, providing mitigation of both flood and drought. Growing more biomass through irrigated agriculture can help to sequester more carbon from the atmosphere, while also providing more jobs and more agricultural resources for communities.",160,5,1
+164,"These added benefits should help considerably with the cost of building hydro reservoirs and could enable pumped hydro as an economical baseload storage for renewables.",163,5,1
+165,"Hydroelectric power is not available everywhere.",160,5,-1
+166,"A solution does not have to be available everywhere to make sense. It can be a viable and efficient choice where it can be implemented, reducing (even if not eliminating) the need for other methods.",165,5,-1
+167,"Major hydroelectric dams modify water flows, causing international tensions, such as the Rogun Hydropower plant [108] in Tajikistan.",160,5,-1
+168,"The scale of the reservoirs, infrastructure and displaced population resulting from a project that would produce enough hydroelectricity to replace fossil fuel would be catastrophic, similar to that of NAWAPA [109].",167,5,1
+169,"Hydroelectric dams pose ecological threats to indigenous aquatic life.",160,5,-1
+170,"Hydropower dams irreversibly change [110] local water conditions which hurts aquatic species.",169,5,1
+171,"The construction of dams has an enormous impact in the coast of a country, with the lack of sand reaching the sea causing a massive raise in the levels of marine abrasion.",169,5,1
+172,"Wind Energy is the most developed alternative energy source.",159,5,1
+173,"By 2030, the EU could be generating 965 TWh per year [111], amounting to 22.6% of electricity requirements in the EU. In other parts of the world, similar or better results could be achieved.",172,5,1
+174,"Many alternatives to nuclear power involve unsustainable fossils fuels.",159,5,-1
+175,"The current electrical generation capacity of nuclear power in the United States is 99.221 GigaWatts [112], which constitutes ~20% of the total electrical generation portfolio, making the elimination of Nuclear Power difficult without supplanting that power with fossil fuel plants.",174,5,1
+176,"The World-wide PhotoVoltaic operational capacity is only 98 Giga-Watts [113] as of July, 2018.",174,5,1
+177,"Germany [114] decided in 2011 to eliminate its nuclear power plants by 2021. At the time nuclear power constituted 25% of Germany's power profile. As of May 2018, nuclear power constitutes ~12%, while electricity from coal plants has risen to 42% with no plans in place to reduce the use of coal.",174,5,1
+178,"Coal is neither sustainable nor green as a means to supplant nuclear power generation.",174,5,1
+179,"Coal ash is the second largest [115] industrial waste stream in the United States, behind mining waste.",178,5,1
+180,"Coal ash is hazardous [116] to humans and the environment.",178,5,1
+181,"Depending on where the coal was mined, coal ash typically contains heavy metals including arsenic, lead, mercury, cadmium, chromium and selenium, as well as aluminum, antimony, barium, beryllium, boron, chlorine, cobalt, manganese, molybdenum, nickel, thallium, vanadium, and zinc. (www.psr.org)",180,5,1
+182,"The toxicants in coal ash can cause cancer and nervous system impacts such as cognitive deficits, developmental delays and behavioral problems. They can also cause heart damage, lung disease, respiratory distress, kidney disease, reproductive problems, gastrointestinal illness, birth defects, and impaired bone growth in children. (www.psr.org [117])",180,5,1
+183,"Electrical generation from coal plants is relatively cheap.",178,5,-1
+184,"There is an abundant [118] supply of coal.",178,5,-1
+185,"A coal plant cannot experience a nuclear accident.",178,5,-1
+186,"Germany has been reducing its reliance on nuclear power for electricity generation since 2011 [119], while reducing its use of fossil fuels for electricity [120] at the same time.",174,5,-1
+187,"Photovolatics [121] could be used in conjunction with other energy sources to achieve a balanced supply of energy.",159,5,1
+188,"-> See 1.3.3.2.",187,5,-1
+189,"Unlike renewables, nuclear power can reliably produce enough energy to match our needs.",159,5,-1
+190,"Studies [122] demonstrate the viability of 100% renewable energy.",189,5,-1
+191,"Modelling of the LA100 plan [123] demonstrates that it is possible to shift to 100% renewable energy by 2035, something that Los Angeles City Council [124] has voted to do.",190,5,1
+192,"Experts say that the lifespan of the US fleet of nuclear reactors may be at least 80 [125] years compared to the 20-30 years for wind turbines [126] and solar panels [127].",189,5,1
+193,"An investment of around 1200 usd/kW [128] is required to extend 20 years the operation of a nuclear reactor, this represent around 1/5 of its capital cost.",192,5,-1
+194,"Extending the lifespan of a nuclear plant increases the decommission cost [129], due to higher radiation waste generated over those years, higher radioactivity absorbed on all the reactor hardware who can increase the time needed to complete the procedure.",192,5,-1
+195,"Extending the lifespan of a nuclear plants increases their risks [130].",192,5,-1
+196,"Depending the quality of solar panels, their degradation rate goes from 0.3% to 0.8% by year [131] from the total output, then after 25 years we can see a drop of only 7% to 17.5% from the total respectively, in other words, if we have a solar panels which initial solar efficiency is 22%, after 30 years an average panel would be around 18%, but they keep producing energy, so the only thing that expires after that time is the manufacturer's warranty.",192,5,-1
+197,"The Solar Panels of the company Sunpower for example, only lost a 7% of its total efficiency after 50 years [132].",196,5,1
+198,"Wind turbines could also extend their lifespan over two methods, one called Lifespan extension, which include studies to measure which part should or not be replaced, or Repowering when major changes are applied including modern blades or technologies. Page 13 and 15 [133]",192,5,-1
+199,"A push for energy efficiency would significantly reduce our energy consumption.",189,5,-1
+200,"The push for energy efficiency does not reduce overall energy consumption because efficiency gains allow for an expansion of consumption.",199,5,-1
+201,"LED lights are ~80% more efficient than incandescent. Switching has led to an annual rise of artificially lit outdoor surfaces of 2.2 [134] percent each year. Created a new problem since Artificial light is an environmental pollutant.",200,5,1
+202,"Renewables cannot keep up with rising demand let alone make an impact on reducing the market for fossil fuels. Global electricity demand is growing faster than renewables [135], causing increased generation from fossil fuels.",189,5,1
+203,"If sustainable means can't meet our demand, our demand should be reduced. Unsustainable power sources are not a viable solution long term.",202,5,-1
+204,"Through the rise of electric cars, that will have to take place in future, the electricity consumption will rise [136] dramatically world wide.",202,5,1
+205,"An increased demand of electricity does not imply the need for nuclear. Even less when the batteries on the vehicles can help to balance intermittent power sources.",204,5,-1
+206,"Then the same IEA contradict itself [137] by saying that renewable would surpass the whole fossil fuel and nuclear capacity combined by 2026.",202,5,-1
+207,"The IEA (International Energy Agency) is not a reliable source due their high bias toward Nuclear and the Fossil Fuel industry.",202,5,-1
+208,"Every year over the last 20 years, the IEA has highly underestimated the growth of solar and wind by a huge margin [138]. Introducing also misleading and false data.",207,5,1
+209,"Several different entities have highly criticized [139] the IEA.",207,5,1
+210,"Some renewable energy sources and technologies have the same or better reliability as nuclear fission.",189,5,-1
+211,"Solar powered pumping and hydro electric generation are both proven technologies. Renewable pumped hydro should be a reliable source of energy.",210,5,1
+212,"Hydropower can consistently meet demand [140] because hydroelectric plants are always operational, except when maintenance must be performed.",210,5,1
+213,"Many of these types of renewable energy production are completely dependent on geography. In particular geothermal, hydroelectric and ocean wave can only be deployed in locations where these resources are available, and nowhere else, without introducing transmission costs.",210,5,-1
+214,"Grids are existing already. So when these stable renewable energy sources can be produced at any point of the current grid, there would be no problem to transport the electrictiy elsewhere.",213,5,-1
+215,"Low-loss long-distance transmission [141] is more and more used because it is useful whatever the type of source (hydro, wind, solar... even nuclear).",213,5,-1
+216,"Geothermal is an alternative green solution to nuclear power.",210,5,1
+217,"Geothermal power generators release moderate GHG emissions [142] from mineral gases. Some sites have similar emissions to gas fired thermal generators.",216,5,-1
+218,"The gases that are released would have been released anyway. In fact some emissions may be reduced by the energy-extraction plant. Same article 'Geothermal systems in their natural state emit CO2 and methane from natural surface features, such as fumaroles, bubbling pools, and flux through the soil. Development of geothermal power stations has often resulted in a decline in surface CO2 and methane emissions, although this is very difficult to quantify.'",217,5,-1
+219,"Geothermal is limited to locations [143] with significant temperature gradients near the surface.",216,5,-1
+220,"-> See 1.3.1.3.1.",219,5,-1
+221,"That information is dated. The oil industry is already capable of drilling wells in excess of 10km deep. Enhanced geothermal [144] at this depth would work practically anywhere on Earth [145].",219,5,-1
+222,"That it is possible does not make it economical. Wells in excess of 4 km deep cost tens of millions of US dollars to drill.",221,5,-1
+223,"Nuclear power plants are also very expensive up front, costing billions of US dollars. But as with nuclear, geothermal plants have comparatively low operating costs.",222,5,-1
+224,"-> See 1.1.5.2.2.",223,5,-1
+225,"The oil industry has also developed the hydraulic fracking [146] technology required to heat mine hot dry rock [147].",221,5,1
+226,"Fracking often causes earthquakes. The damage to nearby cities might be even worse than a meltdown.",225,5,-1
+227,"Enhanced geothermal alone [148] could provide all of humanity's energy needs for the foreseeable future.",216,5,1
+228,"Geothermal energy [149] poses the same reliable energy with recent endeavors into this technology that prove to be just as effective as nuclear energy, without the nuclear waste.",216,5,1
+229,"Hydroelectric reserve dams are constrained in how much energy they can produce in order to support irrigation and prevent flooding.",210,5,-1
+230,"Nuclear energy reactor are constrained in how much energy they can produce in order not to undergo a nuclear meltdown.",229,5,-1
+231,"At high altitude, the winds never stop. Thus, high-altitude wind power [150] is more reliable.",210,5,1
+232,"Solar panels can provide energy during cloudy days and through the night if they're located in space [151].",210,5,1
+233,"The high costs of launching satellites makes this option cost-prohibitive.",232,5,-1
+234,"The SpaceX BFR will dramatically reduce launching costs due to scale and reusability.",233,5,-1
+235,"Large solar arrays can be robotically assembled in orbit, from materials that need not be able to support their own weight on the ground. Thin Mylar film reflectors can concentrate sunlight on high-efficiency photovoltaics to minimize weight and cost.",233,5,-1
+236,"Because we do not have the materials strong enough for an Earth-based space elevator, the power would have to be transmitted to Earth wirelessly, which is inefficient.",232,5,-1
+237,"The microwave beam would have to be spread over such a wide area (for safety and because of beam diffusion at that frequency over long distances) that the ground receiver might as well be a ground-based solar power plant.",236,5,1
+238,"Unlike photovoltaics, molten-salt solar thermal plants [152] can provide continuous baseload power throughout the night and during cloudy days. This is because the energy used for electrical generation is continuously extracted from a large thermal buffer, which need only be re-heated periodically by the concentrated sunlight during the day.",210,5,1
+239,"Biogas plants provide steady and reliable energy production.",210,5,1
+240,"Biogas still produce greenhouse gas emissions and so do not solve the problem.",239,5,-1
+241,"The carbon dioxide gas emissions are exactly offset by the atmospheric carbon absorbed by the plants used to produce the biogas in the first place.",240,5,-1
+242,"A biogas plant in South Korea uses 70% pig manure [153]. It is difficult to calculate whether the CO2 that went into the production of pig manure is exactly offset because there are other factors that produce CO2 in the process of producing pig manure, such as transportation, construction and maintenance of pig meat factories or producing supplies for them.",241,5,-1
+243,"Biogas is too expensive compared to fossil fuels or even intermittent renewables + batteries.",239,5,-1
+244,"Renewables are more reliable [154] than nuclear. Their distributed nature [155], battery backup storage and resilience make them more predictable and less prone to sudden huge losses.",210,5,1
+245,"A vast grid network can transport energy from sources that have preferable conditions at any moment in time.",189,5,-1
+246,"Electric heat losses are directly proportional to the length of the wire, as per Joule's First Law [156]. This will drastically lower the already low efficiency of renewable sources.",245,5,-1
+247,"Long-distance power transmission would likely use high-voltage direct current lines [157], which minimize losses due to resistance over long distance as compared to conventional AC power lines.",246,5,-1
+248,"Superconducting power cables have already [158] been [159] demonstrated [160]. These have literally zero resistance, regardless of length, and do not require the high voltage and expensive transformers of conventional AC lines. There is some loss of power required to maintain the liquid nitrogen coolant, but with good insulation this is less than half the loss due to resistance from a conventional power cable.",246,5,-1
+249,"(U)HVDC [161] limits those losses when it comes to longèdistance powerline, and is booming everywhere for quite a long time [162].",246,5,-1
+250,"Smart grids can help even out fluctuations in the power production across the various types of renewable energy to create a continuous and reliable supply.",245,5,1
+251,"The North Sea Offshore Grid [163] serves to bring Norwegian hydroelectric power to central Europe.",245,5,1
+252,"With large scale solar farms in desert areas, such as Desertec [164], this could be easily done.",245,5,1
+253,"The Desertec project failed in 2015 [165].",252,5,-1
+254,"As Desertec [166] envisioned, solar energy could be transported to Europe from the Sahara.",252,5,1
+255,"Nuclear energy is the only technology that can be used on a sufficiently wide scale because it requires only limited land.",189,5,1
+256,"Nuclear power plants require about 3 km² [167] to produce, on average, 1 gigawatt of power, compared to solar and wind which require 140 km² and 370km², respectively.",255,5,1
+257,"Only 1% of the land area spanned by wind farms is permanently taken out of production.​ [168]",256,5,-1
+258,"Wind turbines contaminate their surroundings with oil [169], and should not be placed near farmland or water sources.",257,5,-1
+259,"That is if everything goes well on theory. In practice we already had 2 huge accidents that combined add up 3200 km2 of exclusion zones. The possibility for new accidents did not disappear.",256,5,-1
+260,"Wind farms decrease the value of land around them due to noise propagation and visual impact. The affected area is much larger than land occupied by power plant itself.  For example, in Poland wind turbines are restricted on a land around residential areas (buffer zones of up to 2000 m) because of this issue.  Constraints on Development of Wind Energy in Poland due to Environmental Objectives. Is There Space in Poland for Wind Farm Siting? [170]",256,5,1
+261,"There is sufficient space available worldwide for renewable energy to support our current power consumption needs",255,5,-1
+262,"With an area no larger than the amount of land currently devoted to golf courses, we could power a third of the US with solar energy [171].",261,5,1
+263,"You would actually need more area of solar panels than the amount theoretically needed to cover our use since we would need to have a rest for the times the sun doesn't shine.",262,5,-1
+264,"The land area usage for Solar and Wind would be the equivalent of Rhode Island, Maryland, South Carolina, Florida, Georgia, and about half of North Carolina combined. (These are two different pages in the links):www.roadmaptonowhere.com [172] www.roadmaptonowhere.com [173]",261,5,-1
+265,"-> See 1.3.5.6.4.",261,5,1
+266,"We just need 1.2% of the Sahara desert [174] surface covered with solar panels to generate all our current electricity consumption with solar panels. Around 2 times more to replace all fossil fuels with hydrogen. The best places for Wind and Solar are the ones where the least amount of people live.",255,5,-1
+267,"Renewables require vast networks of power lines to effectively harvest energy, while nuclear concentrates supply in a smaller number of locations.",255,5,1
+268,"As renewable energy sources require plenty of space, this can come at the expense [175] of biodiversity by further reducing already diminished wildlife habitats, especially in areas where available land is sparse enough as it is.",267,5,1
+269,"Professor Bradshaw [176], Sir Hubert Wilkins Chair of Climate Change stated ""Biodiversity is not only threatened by climate disruption arising largely from fossil-fuel derived emissions, it is also threatened by land transformation resulting from renewable energy sources, such as flooded areas for hydro-electricity, agricultural areas needed for biofuels and large spaces needed for wind and solar farms.""",268,5,1
+270,"Wind turbines and Solar panels are installed over crops, sea or desert areas. The merge of crops with solar panels also bring benefit for both which is know as agrivoltaics [177]. Any effect on biodiversity of these technologies is negligible.",269,5,-1
+271,"A large and dense grid with many interconnections benefits to any type of energy source: dynamically choosing which production units work is key to total cost reduction and also continuity of supply. This is a major trend for the last 30 years: grids are more and more large, dense and interconnected (mainly as wide area synchronous grids [178]).",267,5,-1
+272,"Centralised nuclear energy production requires more and longer transmission lines.",267,5,-1
+273,"The same of whatever other centralized producted power plant. But with more output granted. ""Hard renewables"" such solar, wind or hidro should remain local.",272,5,-1
+274,"Transmission losses are only around 3% per 1000km [179] using conventional high voltage AC lines.",272,5,-1
+275,"Nuclear power maintains centralization of power grid. Thus, it could probably hinder a decentralized power grid in which households would produce and sell energy",267,5,-1
+276,"Distributed generation is not feasible for urban areas as density of demand is too great.",275,5,-1
+277,"Distributed generation diminishes resource efficiency as it must include conversion and distribution facilities for each location. Because of this, centralized generation cannot be totally replaced by distributed generation.",275,5,-1
+278,"Nuclear reactors can be sited closer to the network load since they don't rely on a geographical resource like wind or solar. Therefore nuclear generation adds to the grid decentralisation.",275,5,-1
+279,"Renewable energy generation is typically decentralized.",267,5,-1
+280,"-> See 1.3.5.7.4.3.2.",279,5,-1
+281,"The above seems to suggest that produces less work for the grid, but the reverse is true.  With dispersed solar (and other generation) the grid has to handle millions of 2-way power exchanges, something it was not designed to do and the  evolving power market provides no incentives for anyone to upgrade the grid.",279,5,-1
+282,"Grids with high ratios of renewable energy typically require more T&D infrastructure because the opportunistic generation is mostly site-specific. This is most noticeable with wind farms. For example www.windpowermonthly.com [180] an 800km transmission line built in Chile to support wind and solar production.",279,5,-1
+283,"Centralized energy production is more efficient than decentralized, due to economies of scale.",267,5,1
+284,"Decentralized energy production increase competence between companies which tend to lower the cost.",283,5,-1
+285,"The power grid integrity has higher chance to go down when an important source or node is compromised.",283,5,-1
+286,"Solar Panels achieved 90% price reduction on the last 10 years thanks to mass production [181], this mean mass production is a biggest factor than size.",283,5,-1
+287,"Renewable energy can be used in a micro-generation system i.e Each household can produce its own energy and large scale production would only be needed to power industry and other large energy consumers",267,5,-1
+288,"Renewable energy is too diffuse. Micro-generation per household isn't realistic for areas with sufficiently high population density, like most big cities, where a large fraction of the world's population lives. They need centralized power.",287,5,-1
+289,"Energy sufficiency makes individuals or small groups more independent and avoids the risks of concentrated power. High-capital projects such as nuclear power risk political and local corruption, such as through embezzling or pork barrel politics, whereas low-capital projects offer less reward for doing so and thus less risk of these coming to pass.",287,5,1
+290,"Geothermal power plants have a similarly small surface footprint.",267,5,-1
+291,"-> See 1.3.5.7.4.8.",255,5,-1
+292,"Nuclear power maintains the ""base load"" of our power grid -- meaning it produces power regardless of weather conditions.",189,5,1
+293,"Energy companies are currently working on storing electrical energy for when the sun doesn't shine and the wind doesn't blow.",292,5,-1
+294,"Vivint Solar [182], in collaboration with Mercedes-Benz, is developing a 2.5 kW-hr energy storage system that can be increased to a 20 kW-hr system. It will allow customers to use batteries to store excess solar energy produced by the system during the day and then consume it during periods of peak energy usage in the evening and at night.",293,5,1
+295,"Intramolecular reactions [183] are making it possible to transform solar energy and store it in a singular molecule. This may form the basis for constructing energy-storing solar cells.",293,5,1
+296,"Solar panels can't provide energy during cloudy days or through the night which is the time most energy is used throughout the day.",292,5,1
+297,"-> See 1.3.5.8.1.",296,5,-1
+298,"-> See 1.3.5.5.7.",296,5,-1
+299,"Peak energy demand is actually during the day due to air conditioning. This is precisely when rooftop solar panels produce the most energy.",296,5,-1
+300,"-> See 1.3.5.5.8.",296,5,-1
+301,"Solar panels operate 25% [184] of the time and wind turbines 25-35% [185] of the time. Nuclear plants generate power more than 93% [186] of the time.",292,5,1
+302,"Using a mix (wind, solar, biomass...), storage and spreading out production units [187] alleviates most of this, and backup units (just as in the existing energetic system) will complete.",301,5,-1
+303,"All nuclear plants shutdown around 40 days every 20 months to change their fuel rods [188].",292,5,-1
+304,"Baseload is an outdated term which was only relevant in the days that only coal and nuclear with their low production cost and slow response to demand gained priority to sell their power to the grid on regulated electricity markets. Now is just a myth [189] which is very far from what modern and competitive grids require.",292,5,-1
+305,"Many advanced reactors have the ability to load follow, ie ramp up and down quickly.  This makes them the perfect backup source for wind and solar.IMSR + Renewables = Deep Decarbonization [190]",292,5,1
+306,"Load following modes decrease the capacity factor of the nuclear plant, which affect negative to the LCOE. Page 46 [191]",305,5,-1
+307,"Nuclear plants are slow to start up and shut down. This makes nuclear reactors a poor option to balance supply and demand of electricity that become more frequent when the energy production becomes more intermittant with more wind and solar power.",305,5,-1
+308,"That is a good reason to have less intermittent power from wind and solar and more stable power from nuclear.",307,5,-1
+309,"It is not necessary to shut down a nuclear reactor in order to power down the production of electricity. The hest generation can simply be rerouted for other purposes, such as production of chemicals or hydrogen.",307,5,-1
+310,"Wind energy can't provide power during absence of wind.",292,5,1
+311,"In many parts of the world wind speeds fluctuate over the course of several weeks.",310,5,1
+312,"-> See 1.3.5.5.6.",310,5,-1
+313,"Hot weather can force nuclear plants offline, as happens regularly in Europe. This is due to them being unable to dump excess heat into nearby rivers due to the damage it would do.",292,5,-1
+314,"Any steam-turbine power plant releases waste heat from its condenser. The problem isn't unique to nuclear; this includes any thermal power station [192]--fossil fuels, (hypothetical) fusion, geothermal, and solar thermal. There are various ways to dissipate the waste heat, some of which might be less environmentally damaging.",313,5,-1
+315,"Some nuclear plants operate at a higher temperature than alternative fuels. The thermodynamic efficiency of a heat engine depends on the size of the temperature gradient, so these nuclear plants produce less waste heat per watt of power generated, compared to the lower-temperature alternatives.",314,5,1
+316,"But not compared to the non-thermal power stations which do not require a heat engine at all, such as photovoltaic solar, wind, and hydro.",315,5,-1
+317,"Cooling tower​s [193] release the waste heat into the atmosphere instead of into a river. Many nuclear plants use them, as do other types of thermal power stations.",314,5,1
+318,"Cooling towers come with a higher cost due the big chimney that requires.",317,5,-1
+319,"Cooling towers consume more water than other cooling methods, the average is at 3800 liters by MWh. So in case we have a nuclear plant of 1GW, then it means it would consume 1000 liters by second that rise to the atmosphere. Figure 1 Page 14 [194]",317,5,-1
+320,"Condensers can also be directly air-cooled using radiators.",314,5,1
+321,"This is called dry cooling and it is the most expensive way to cool a thermal plant.",320,5,-1
+322,"This is thermodynamically less efficient than water cooling due to the higher temperature.",320,5,-1
+323,"Condensers could also be cooled by a controlled vortex [195], which can also generate additional power without releasing heat into the river.",314,5,1
+324,"Neat idea, but still very far from proven. Not even a prototype was built. [196]",323,5,-1
+325,"Australia not only would achieve 100% solar and wind power grid.. it would achieve 300% solar and wind power converting all the excess to export hydrogen to the world. [197] This number is extracted from the 255 GW added, assuming an average capacity factor of 35% for all the sources, give us 90GWh, which is 3 times more than the average energy consumption for Australia for each hour.",159,5,1
+326,"This is so realistic projects started, such as the AAPowerLink [198].",325,5,1
+327,"Oceans can be used for energy production.",159,5,1
+328,"Tidal power is an alternative renewable and green energy source.",327,5,1
+329,"Tidal power is applicable to some places, however, location, scale and economics do not always make it a viable solution. Total global potential [199] is currently estimated at around  150 TW/h per year. As a comparison, world consumption of electricity (2014) was 23,816 TW/h.",328,5,-1
+330,"Wave power is an alternative renewable and green energy source.",327,5,1
+331,"Wave power is a rather heterogeneous form of energy. This makes that only a few select locations (for example along the westerlies) have a wave height that would make exploitation (economically) feasible. Energy density in other places makes wave power impracticable.",330,5,-1
+332,"Certain tidal power systems have a negative impact on plant and animal life within tidal basins, as well as navigation and recreation. (www.eia.gov [200])",327,5,-1
+333,"Ocean based methods of power generation is not available in inland regions.",327,5,-1
+334,"Renewable technologies are unable to provide for a steady baseload and are therefore unreliable.",159,5,-1
+335,"Wildly fluctuating renewable output is a significant problem in Germany [201], it is balanced by conventional power stations; the only options available there are fossil fuels or nuclear power. If we have to provide back up to those renewables with nuclear fission (in order to hit CO2 targets) then it makes sense to just use that consistently.",334,5,1
+336,"Congestion [202] issues [203] in Germany [204] are related to the design of the power market, particularly the fact that due to political reasons they insist on having a single price zone.",335,5,-1
+337,"This would not be a problem if energy storage technologies are developed and integrated in renewable energy planning. There are numerous technologies that could be employed for renewable energy storage and most have been already been proven effective, such as hydro, battery, thermal and liquid/gaseous storage systems Brown et al (2018) [205].",334,5,-1
+338,"We could repurpose the fossil fuel infrastructure to deliver hydrogen produced by renewable sources, as described in Sven et al (2019) [206]. The later already has more than 500 MW installed. Also liquid and thermal storage system. Europe, for example, has a capacity of more than 1000 TWh for natural gas storageBrown et al (2018) [207]",337,5,1
+339,"Some countries, e.g. UK, have good, if aged, Gas Transmission Networks and a solid safety record combined with low distribution losses (compared to electricity). The work to include Hydrogen within the mix is seen as achievable (Town Gas had more Hydrogen than Natural Gas has anyway) while 100% Hydrogen may take some further research.",338,5,1
+340,"The British Government is executing a long term withdrawal from Gas. It is planning to stop new estates being connected to the Gas Network. Over time this will reduce the viability of the network (and other Gas suppliers) until a tipping point is reached where new investment to keep it going is not viable.",339,5,-1
+341,"Base load can be managed by a spread of sources and risk. Energy storage is already [208] being used for peak load and we need more of that instead of excess generating power.",337,5,1
+342,"Storage systems for renewable sources may have been proven effective but none so far have been proven practical on the scale required to decarbonise the energy sector.",337,5,-1
+343,"-> See 1.3.5.8.3.1.",334,5,-1
+344,"Enough renewable energy [209] for the lowest power days, plus batteries to give 24h consistency, is still cheaper than nuclear [210].",334,5,-1
+345,"The decentralized small power plants imply investments in the electricity supply networks which are never taken into account when assessing the costs.",344,5,-1
+346,"24 hour storage is inadequate. Renewable energy source variability is measured in seasons - up to 6 months of variance. Storage for this length of time in batteries is very unrealistic.",344,5,-1
+347,"Renewables will have to have enough capacity for the season the highest demand. Then shorter-term storage will be enough.",346,5,-1
+348,"Battery technology has not been proven at scale. Hornsdale Power Reserve (the ""big Tesla battery"") did not displace any fossil fuel projects.",344,5,-1
+349,"Improvements in battery technology are occurring rapidly, possibly the research lagged behind research for energy production. As of July 2019 theclaim [211] from Tesla is that they have stabilised a major transmission network and have plans for another that will displace at least one potential power plant.",348,5,-1
+350,"-> See 1.1.5.2.2.",344,5,-1
+351,"-> See 1.3.5.5.",334,5,-1
+352,"Environmental impacts, like wind or sunshine, make renewable energy production unstable.",334,5,1
+353,"-> See 1.3.5.5.",352,5,-1
+354,"Batteries can be used to bridge periods of variable energy production.",352,5,-1
+355,"-> See 1.3.5.6.",352,5,-1
+356,"No renewable carbon-free source of energy can provide the same scale and reliability as nuclear power during peaks.",334,5,1
+357,"Grid storage technology [212] is a strong option which helps out with energy storage peaks.",356,5,-1
+358,"Many different types of grid storage can work together to make the grid more robust in order to accommodate swings in supply.",357,5,1
+359,"New storage tech is evolving and being designed to optimize for different market need. This is a crucial part of any future grid whether or not nuclear power is included as a supply source.",357,5,1
+360,"-> See 1.3.5.6.2.",357,5,1
+361,"-> See 1.3.5.5.4.3.",356,5,-1
+362,"Peak energy demand is due to air conditioning in the middle of hot summer days. That's exactly when the sunshine is most available for solar power.",356,5,-1
+363,"This is only true in warm climates and in the summer. For colder weather, peak demands does not correlate with maximum solar radiation.",362,5,-1
+364,"-> See 1.3.5.5.",159,5,1
+365,"There are serious safety concerns with the use of nuclear power.",1,5,-1
+366,"New versions of nuclear energy plants are highly rigorous [213] about safety [214].",365,5,-1
+367,"3+ reactors [215] are designed so that a full core meltdown is likely to occur less than once in a million years of operation.",366,5,1
+368,"Pebble bed modular reactors [216] are built in such a way that no human nor equipment error can cause an accident that could harm public.",366,5,1
+369,"Generation IV power plants are required to follow the safety methods detailed here [217], and here [218].",366,5,1
+370,"Emerging nuclear technologies like thorium (LFTR) will eliminate safety concerns. There is more than one way to derive energy from atoms, and more than one type of atom.",366,5,1
+371,"Liquid fluoride thorium reactors have a salt plug which must be actively cooled during normal operation. If the plant loses backup power (like Fukushima) then the plug stops getting cooled and melts with no further intervention. Then the fuel will drain into a holding tank with a different shape that allows more neutrons to escape from the fuel, which stops the chain reaction so it can't melt the tank. This type of feature is called ""passive safety"", and many newer designs have them.",370,5,1
+372,"The nuclear chain involved with thorium do not break down into dangerous elements or weaponizable elements. The elements produced have long half lives meaning less dangerous radiation.",370,5,1
+373,"This claim is disputed [219] and could be used as a route to weaponizable U233 on a small scale (such as research reactors) by rogue nations.",372,5,-1
+374,"Many nuclear power stations are not resilient to emerging risks [220] of climate change.",365,5,1
+375,"Flooding [221] can knock out its electrical systems, disabling its cooling mechanisms and leading to overheating and possible meltdown and a dangerous release of radioactivity.",374,5,1
+376,"Nuclear power plants are unsafe in areas which are prone to earthquakes.",374,5,1
+377,"This can easily be solved by not building nuclear reactors in places where earthquakes are known to occur, so this argument is only valid for some countries.",376,5,-1
+378,"Earthquakes can happen anywhere on Earth.",377,5,-1
+379,"Nuclear power plants are designed to weather intense earthquakes and many have endured quakes beyond their design basis. The 7 Fukushima reactors scrammed immediately and were not significantly damaged by the 9.0 Tohoku earthquake.",376,5,-1
+380,"Reactors can be built on ships [222] which are plugged into the grid. Since they're floating they're not that vulnerable to earthquakes. They can also unplug and move further out to sea to avoid any tsunami after the earthquake is detected. They can even dunk their core in the sea to cool and prevent it from melting down.",376,5,-1
+381,"Safely regulating nuclear power plants requires highly effective and organised state intervention. Political instability or dysfunctional government thus enormously increases the risk of nuclear accidents.",365,5,1
+382,"The dysfunction of the Soviet state was a major factor in creating the nuclear disaster at Chernobyl.",381,5,1
+383,"The INSAG-7 report of 1992 [223], written after the fall of the Soviet Union, blamed a combination of design flaws and careless management for the disaster. Both of these were the responsibility of the Soviet state, which built and managed the Chernobyl plant.",382,5,1
+384,"Design flaws weren't major because many reactors architectured just like Chernobyl's one (dubbed RBMK) were exploited after the disaster, many are right now, and some will be for decades. Source: https://en.wikipedia.org/wiki/RBMK#List_of_RBMK_reactors [224]",383,5,-1
+385,"The last RMBK reactor will be shut down in 2034, and the design is no longer in use, with there being none currently under construction [225]. This shows that there exist far better and safer reactor designs in available.",384,5,-1
+386,"The point is not about it to be flawed (it is). The point is that its flaws weren't major, to the point of implying an immediate shutdown of the RBMK fleet. Everything has flaws, and there is no way to prove that newer reactors are sure enough (time will tell), while other types of sources (wind turbines, solar panel...) aren't such a concern.",385,5,-1
+387,"Careless management is debatable, as many did sacrifice themselves and as approx 600000 'liquidators' were put at work to alleviate some consequences of the disaster. Moreover careless management is possible everywhere (even in the US, see Katrina 2005).",383,5,-1
+388,"Stringent Government and world wide guidelines enforce the handling of nuclear material to maintain a near negligible effect on health. Nuclear workers when compared to airline industry workers, receive less dose due to ALARA principles by utilizing shielding, distant, and limited exposure.",381,5,-1
+389,"Nuclear power produces lower amounts of particulate pollution than other forms of power, reducing illness.",365,5,-1
+390,"According to the Nuclear Energy Institute [226], nuclear power plants do not produce particulate matter, such as smoke and dust.",389,5,1
+391,"Producing the material, logistics and supplies to build and maintain a nuclear power plant is likely to produce smoke and dust.",390,5,-1
+392,"Coal kills hundreds of thousands [227] every year compared to nuclear which kills almost none [228], so it is less safe than nuclear.",389,5,1
+393,"Coal power plants kill more than ten times as many people as any other energy source, per kWh [229], mainly through fine toxic particulate pollution.",392,5,1
+394,"Nuclear reactors release less radiation into the environment per kWh in comparison to coal, since radioactive compounds are concentrated and released in coal fly ash.",389,5,1
+395,"Coal power plants create tens of thousands of times as much waste as nuclear power plants to produce the same amount of energy.",394,5,1
+396,"Between 7,500 and 52,000 Americans [230] meet early deaths because of particulate pollution from power plant emissions. Every year, fossil fuel plants kill more people than the death toll of all nuclear power plant accidents combined.",394,5,-1
+397,"Unlike what happens with other forms of energy, nuclear waste is totally confined and can be stored, handled or later recycled or reused in future reactors leaving byproducts with shorter half-lives.",389,5,1
+398,"Coal power plants are responsible for 42% of US mercury emissions [231], releasing around 45,000 lbs of mercury every year. By comparison, nuclear power releases no mercury [232].",389,5,1
+399,"Coal power plants release thousands of pounds [233] each of lead, cadmium, and arsenic per year.",389,5,1
+400,"Switching from coal to natural gas would have no effect on climate change, but would save $20 to $50 billion [234] in healthcare spent on illness from particulate pollution. Nuclear power would have the same effect on health, while also reducing climate change.",389,5,1
+401,"Living close to nuclear power plants increases people's chances of developing serious illnesses.",389,5,-1
+402,"A case-control study [235] in the 15 February 2008 issue of the International Journal of Cancer, found that children under age 5 years living within 5 km of an Nuclear Power Plant were at more than double the normal risk of developing leukaemia.",401,5,1
+403,"The radiation lvls are not dangerous to people living around the plant. Here is a quote from the U.S.NRC [236]: If you lived within 50 miles of a nuclear power plant, you would receive an average radiation dose of about 0.01 millirem per year. To put this in perspective, the average person in the United States receives an exposure of 300 millirem per year from natural background sources of radiation.",401,5,-1
+404,"Actual research doesn't indicate Nuclear Plants increase cancer rates. Do Nuclear Power Plants Cause Cancer? [237] and Nuclear plants 'do not raise child cancer risk' [238]",401,5,-1
+405,"Rooftop solar panels are estimated [239] to produce 0.44 deaths per TWh. This is more than for nuclear fission with 0.04 deaths per TWh.",365,5,-1
+406,"That nuclear energy is the safest form of energy production per TWh produced is confirmed in Markandya and Wilkinson (2007) [240] which makes use of the data generated by the ExternE project [241].",405,5,1
+407,"Solar and wind [242] are the safest based on death rates from accidents and air pollution.",406,5,-1
+408,"Wind and solar energy production has grown immensely [243] since 2007, therefore the safety data from this time period is likely incomparable to modern safety statistics.",406,5,-1
+409,"The parent source is outdated. It is a publication from 2007 which use data from 2005, at that time the electricity share from solar and wind was totally negligible, if we divided that by any death that might occur over that time, the resulting ratio would have been significant.",406,5,-1
+410,"The reference given is for rooftop solar. Large scale photovoltaic power plants would be safer.",405,5,-1
+411,"The visions of threat are out of proportion. Like flying, nuclear power is statistically safe [244].",365,5,-1
+412,"There are hundreds of nuclear plants operating around the world and there has been only two major accidents [245] in the whole history of nuclear fission with the worst one leading to under 100 casualties [246].",411,5,1
+413,"The UN has calculated [247] that 4000 might eventually die as direct cause of radiation. Then for all the people affected or the 600,000 workers in the cleaning operation, higher mortality rate or cancer incidence was discovered over the average.",412,5,-1
+414,"The amount of victims is very difficult to assess, and each method used to evaluate the effects of such a disaster encounters harsh critics. For the Chernobyl disaster some scientific sources put it at 60000 [248], and another one at 1 million [249].",413,5,1
+415,"The death toll from the bombing of Hiroshima also varies [250] depending on source. The political nature of many of mass radiation events, as well as the nature of radiation poisoning, make it difficult to assess true figures.",414,5,1
+416,"Between Chernobyl 700B [251] and Fukushima 600B to 800B [252], both add around 1500 billions USD spent on cleaning and damage. This make them the two more expensive accidents in human history [253] by a wide margin. So the visions of threat are not out of proportion.",411,5,-1
+417,"Accidents can have major consequences because they release radioactive materials.",365,5,1
+418,"The risk of a nuclear meltdown [254] is being reduced by new technology: recently developed forms of fuel encase uranium in ceramic [255], which is almost impossible to melt.",417,5,-1
+419,"The Fukushima Disaster in 2011 reveals how dangerous nuclear power can be.",417,5,1
+420,"Fukushima occurred in one of the most industrialized countries that is renowned for its reverence to modern technology.",419,5,1
+421,"The Fukushima Disaster could have been prevented if it were not for ignored warnings and lax safety efforts.",419,5,-1
+422,"The company running the reactor admitted that it had failed to inspect [256] 33 pieces of equipment related to the cooling systems, including water pumps and diesel generators, at the power station’s six reactors before the earthquake.",421,5,1
+423,"A month before a powerful earthquake and tsunami crippled the Fukushima Daiichi plant at the center of Japan’s nuclear crisis, government regulators approved [257] a 10-year extension for the oldest of the six reactors at the power station despite warnings about its safety.",421,5,1
+424,"A worker for the plant involved the 2011 Fukushima nuclear disaster said in court [258] that his former boss was warned that a massive tsunami could strike the site, but delayed measures to build a protective wall to prevent it.",421,5,1
+425,"Tepco [259] knew of geological evidence that the region surrounding the plant had been periodically flooded about once every thousand years. In 2008, it performed computer simulations suggesting that a repeat of the devastating earthquake of 869 would lead to a tsunami that would inundate the plant. Yet it did not adequately follow up on either of these leads.",421,5,1
+426,"If the reactor safety design fails to account for common human behavior of ignorance and laxness, then there will always be a risk of nuclear accidents.",421,5,-1
+427,"The Fukushima reactor was designed for the midwestern US. Its backup generators were in the basement [260] to avoid tornado damage, when they should have been near the roof to avoid flood waters.",421,5,1
+428,"Fukushima was an early type nuclear power plant. All the hazards that model of construction had are now solved in the new Type IV Nuclear reactors, eliminating the danger of a similiar incident.",419,5,-1
+429,"Other early-type designs are still in operation [261].",428,5,-1
+430,"The nuclear plant disaster at Fukushima is small compared to the natural disaster that caused it.",419,5,-1
+431,"Tens of thousands of people were killed by the Tohoku earthquake and tsunami while radiation from Fukushima injured no members of the public and killed no one.",430,5,1
+432,"Nuclear meltdowns are disasters because they are expensive, not because they are deadly. Cleanup costs a lot of time and money, and meanwhile, the populace is denied the use of a large land area due to radiation, which also has economic costs to the nation. This is especially devastating in a country with high population density and little land, like Japan.",431,5,-1
+433,"Fukushima cleanup is estimated at $180 billion [262] and the majority contaminants have a half life of 30 years.",432,5,-1
+434,"As standard operating procedure (not an accident) fossil fuel electric generation contributes to global warming by creating billions of tons of atmospheric CO2 and fine particulate emissions which kills 2 million people each year.",432,5,-1
+435,"Fukushima was hit by a devastating earthquake, 9 on the Richter scale, which can cause huge damage for a thousand kilometers from the epicenter.",430,5,1
+436,"The earthquake triggered a 13 to 15m (43 to 49 ft)-high tsunami with dirt and rocks.",430,5,1
+437,"Because of the nature of nuclear power and the centralised way it is produced, nuclear accidents tend to be bigger in scale than other forms of sustainable energy. Therefore perceptions of the danger are distorted.",417,5,-1
+438,"Bigger scale events are more influential to societies than more deaths that are spread out over time and locations.",437,5,1
+439,"Because of the bigger accidents, it also increases the chance that people that are against nuclear power die in accidents, rather than just people that have accepted the risks of a given technology (e.g solar panels).",437,5,1
+440,"The consequences of a nuclear accident aren't ""major"", some victims get cancer much later in life and radiation doesn't make existing cancers worse, it only creates new ones.",417,5,-1
+441,"Scientific studies of those exposed to nuclear power accidents has found that in all commercial power generation incidents other than Chernobyl, no adverse health effects have ever been detected. pdfs.semanticscholar.org [263] www.ncbi.nlm.nih.gov [264] www.unscear.org [265]",440,5,1
+442,"Radioactive particulate release from coal-fired plants is part of their normal operation. It's a far larger problem and replacing coal with nuclear could reduce the scale of radioactive pollution.",417,5,-1
+443,"The ecological consequences of nuclear power plant disasters are largely positive, since humans avoid the area, allowing it to thrive.",417,5,-1
+444,"If a society wants to preserve wildlife, and ensure humans avoid certain areas, it is possible to create nature reserves or national parks. It is obviously unnecessary to release damaging radiation.",443,5,-1
+445,"If nuclear disasters had net positive effects, presumably we should be trying to create as many as possible. The fact that no one supports such a plan reveals that nuclear disasters have overwhelmingly negative consequences (on net).",443,5,-1
+446,"Chernobyl has, in effect, become a nature reserve [266].",443,5,1
+447,"Many rare and protected species [267] now inhabit Pripyat and the surrounding area, such as white-tailed and spotted eagles.",446,5,1
+448,"We are far from a consensus about this [268], and many scientists don't agree with you [269].",446,5,-1
+449,"There is a risk of terrorist attacks on nuclear power plants. This is dangerous.",365,5,1
+450,"Being more compact for the power they provide, a nuclear reactor is far easier to defend than a dam.",449,5,-1
+451,"The containment structure for a nuclear power plant [270] is a few dozen meters which makes it difficult to aim at. Compared to the World Trade Center's towers, NPP's are at least a 100 times smaller.",450,5,1
+452,"Nuclear power plants are designed to withstand direct hits by airplanes without failure.​ [271]",449,5,-1
+453,"Reactors have numerous in-built countermeasures [272] to terrorist attacks such as completely shutting down if nearby buildings are hit.",449,5,-1
+454,"A terrorist attack on a population center would be more effective than a successful attack on a NPP.",449,5,-1
+455,"The point of terrorism is not to be effective at killing people, but to be effective at intimidating people. A dirty bomb [273], for example, probably wouldn't kill anyone, but could be a very effective terrorist tactic.",454,5,-1
+456,"Dirty bombs could be made using medical isotopes, Thorium, or natural Uranium which are available without nuclear power plants.",455,5,-1
+457,"Increasing the presence of nuclear power and national preparedness for an accident would render the ""terror"" component of a dirty bomb attack ineffective.",455,5,-1
+458,"Nuclear facilities have been attacked by anti-nuclear activists and suffered no harm [274].",449,5,-1
+459,"Terrorists can use advanced hacking tools to get access to the power plant.",449,5,1
+460,"The internal controls of a nuclear power plant are not connected to the internet. It is on a physically separate internal network.",459,5,-1
+461,"Although naturally improbable, terrorist attacks do present a real threat. [275]",449,5,1
+462,"Nuclear power kills far fewer [276] people than fossil fuels, per TWh.",365,5,-1
+463,"Estimates of the death toll from incidents at nuclear power stations may be misleadingly low, because they do not take into account long term economic and societal damage.",462,5,-1
+464,"The cleanup cost of just the reactor site in Fukushima is estimated to be going to take 30 - 40 years and to cost $650billion. Add in other factors and that cost rises to $1 trillion.Fukishima's final costs will total nearly $1trillion [277]",463,5,1
+465,"Suicide rates increased in evacuation areas after Fukushima. These deaths, along with others caused by reduced access to medication, increased stress, and other factors, are difficult to quantify and are not included in calculations of deaths from nuclear incidents. Suicide rates increased in evacuation areas after Fukushima. [278]",463,5,1
+466,"Economic recovery in areas affected my radiation is slower than in areas damaged by other forms of disaster. Fear prevents people and businesses returning to areas evacuated after Fukushima [279]",463,5,1
+467,"-> See 1.4.5.",462,5,1
+468,"Fear of nuclear power [280] has killed many more people than nuclear power has killed. Consider Germany; after Fukushima, they closed eight reactors. Since that time, 1,100 people per year there have lost their lives because of coal-fired pollution.",462,5,1
+469,"Deaths per TWh caused by coal power dwarf those caused by nuclear.",462,5,1
+470,"Coal power kills 129 people for every TWh of energy produced, worldwide, 1,840 times [281] as many as nuclear.",469,5,1
+471,"Coal power kills 13 people for every TWh of energy produced in the United States, 185 times [282] as many as nuclear.",469,5,1
+472,"Nuclear power is the safest source. It is the least deadly option as measured by deaths per TWh [283] among a list of energy sources that includes wind, hydro and solar.",462,5,1
+473,"Nuclear power kills 0.07 people for every TWh of energy produced [284], including all disasters, such as Chernobyl.",472,5,1
+474,"Increasing nuclear fission power production worldwide could lead to the proliferation of nuclear weapons, causing an unfathomable death toll.",473,5,-1
+475,"Every developed country has the knowledge and ability to produce weapons-grade fission material from a rudimentary nuclear pile. Nuclear reactors are not required for this. No-one is going to forget how to make weapons.",474,5,-1
+476,"The knowledge isn't the problem, it's the ability to do it secretly.",475,5,-1
+477,"Countries which produce nuclear fission power can produce nuclear weapons fairly easily.",474,5,1
+478,"Civilian nuclear power is a dual-use technology that also has military applications.",477,5,1
+479,"There are proliferation-resistant reactor designs that can be used for power, but not weapons.",478,5,-1
+480,"Thorium based nuclear reactors, such as LFTRs, can actually destroy weapons grade waste.",479,5,1
+481,"There's no such thing as ""weapons-grade waste"". Weapons-grade materials are highly enriched and expensive to produce; they don't get produced as a waste product.",480,5,-1
+482,"Creating nuclear weapons from civilian power reactors is not possible. wayback.archive.org [285] atomicinsights.com [286]",478,5,-1
+483,"The claim applies only to modern, Western, designs. For example, following the decision of the USA to cease nuclear cooperation with it's allies after WW2, the UK's initial nuclear weapons were manufactured using fissile material from Windscale (now Sellafield), Calder Hall, Chapelcross and likely Dounreay., all civilian nuclear power stations",482,5,-1
+484,"Radioactive wastes can be used to create dirty bombs and incite terror",477,5,1
+485,"Dirty bombs are lethal because they are a bomb, not because of their radioactivity: apps.cei.psu.edu [287]  Spent fuel and most other nuclear materials are solids. Chalk rivers has a dedicated dirty bomb test ground. Every case, the explosion gives more damage than the nuclear debris, which basically can be recollected and stored.",484,5,-1
+486,"Not if developed nations supply the fuel, in that case, enrichment facilities are unnecessary.",477,5,-1
+487,"Nations which are test-ban signatories and develop their energy program under the supervision of the IAEA will not have the opportunity to use their nuclear material for weapons.",477,5,-1
+488,"The largest countries that require the most energy already have nuclear weapons or are in a nuclear treaty.",474,5,-1
+489,"Few countries who acquired nuclear technology from the US, UK, or Canada have developed a weapons program. IAEA nonproliferation work has improved since that time.",488,5,1
+490,"Belgium is a non-nuclear weapon state [288] which hosts US tactical weapons. Belgium began developing its nuclear energy capability in 1975.",489,5,1
+491,"President Eisenhower created the Atoms for Peace program [289] in the 1950's which encouraged the peaceful development of nuclear energy.",489,5,1
+492,"India created a nuclear weapon in 1974 after research starting in 1944, and after obtaining a Canadian CIRUS reactor. This resulted in strengthening of nonproliferation policies.",489,5,1
+493,"Pakistan gained the ability to create nuclear weapons by stealing Uranium centrifuging technology from URENCO. AQ Khan traded this technology to China, Iran, and North Korea. Only the Iranian weapons program was halted by a joint American/Israeli cyber attack.",489,5,-1
+494,"If A.Q Khan was not hired and trained by the Physical Dynamics Research Laboratory in 1972, countries such as Pakistan and North Korea may not have missiles today. [290]",474,5,1
+495,"Nuclear power can produce energy within countries that already have established nuclear industries and distribute that energy by means not involving the transportation of fissile material.",474,5,-1
+496,"About 10 percent [291] of electricity in the United States is fuel from dismantled nuclear bombs, including Russian ones.",474,5,-1
+497,"Having nuclear reactor does not mean having the ability to mine uranium and manufacture it into plutonium for nukes.",474,5,-1
+498,"There are other nuclear cycles, such as the thorium cycle, that are useful for electricity but not useful for weapons.",474,5,-1
+499,"Thorium decays into Protactinium inside a molten salt loop, which can then be continually extracted from the loop into a separate container, where the Protactinium further decays into Uranium 233 [292], which can be used to make nuclear bombs.",498,5,-1
+500,"The ""LiFTR"" reactor and other common Thorium molten salt reactor designs have opportunity for diversionary pathways. This makes them more difficult to monitor by the IAEA.",498,5,-1
+501,"""Once-thru"" fuel cycles like the denatured MSR and certain fast breeder reactors are resistant to proliferation. Any sealed fuel system can be made tamper evident which helps the IAEA fight weapons proliferation.",498,5,1
+502,"War is usually motivated by economic concerns. A country with efficient energy production will have a stronger economy and less need to go to war. Without war as a motivation, countries won't have a reason to misuse plutonium.",474,5,-1
+503,"Efficient energy production cannot prevent economic concerns by itself. Even with affordable energy there are many other ways national economies can go wrong.",502,5,-1
+504,"Economic concerns are not the only cause of wars.",502,5,-1
+505,"The black swan [293] risk of nuclear weapons proliferation could dramatically increase the expected death toll per TWh.",474,5,1
+506,"There have already been a number of close calls [294] in living memory.",505,5,1
+507,"-> See 1.4.9.5.1.1.2.1.1.",505,5,-1
+508,"Chemically separating Uranium Oxide fuel pellets requires handling the short-lived fission products which are very dangerous.",505,5,-1
+509,"Nuclear weapons rely on highly enriched uranium and certain isotopes of plutonium. Light water reactors (current technology) rely on low-enriched uranium. Next generation thorium reactors produce products that are not desirable for weapons (easy to track). Existing breeder reactors were built for the purpose of creating weapons grade plutonium. As long as the right reactor design is licensed, weapons proliferation risk is a non-issue.",505,5,-1
+510,"This statistic does not adress the potential future risks of toxic waste buildup.",472,5,-1
+511,"Hydrogen explosions may result from the failure of specific alloys and components integral to some Nuclear Design. Evidenced by Zirconium-Hydrogen reaction from Fukushima. [295]",365,5,1
+512,"According to U.S. NCRP reports, population exposure from 1000-MWe power plants amounts to 490 person-rem/year for coal power plants, 100 times as great as nuclear power plants (4.8 person-rem/year). en.wikipedia.org [296]",511,5,-1
+513,"Nuclear power is more environmentally friendly.",1,5,1
+514,"Nuclear power typically has less adverse effects [297] on a country's local environment and its biodiversity than other available power sources.",513,5,1
+515,"Renewable energies often harm the environment indirectly.",514,5,1
+516,"Renewable sources of energy often rely on harmful lithium batteries [298] to store the electricity they produce which hurt the environment. Nuclear power removes the need [299] for these batteries.",515,5,1
+517,"We need those batteries for vehicles, and their capacities can be harnessed to benefit to the the grid, alleviating renewable sources' intermittency [300].",516,5,-1
+518,"Wind turbines kill between 214,000 and 368,000 birds [301] annually in North America.",515,5,1
+519,"This figure is actually rather small compared to the estimated 6.8 million bird fatalities [302] from collisions with cell and radio towers, and the 1.4 billion to 3.7 billion [303] deaths caused by cats.",518,5,-1
+520,"Thousands of birds and marine animals can die from a single oil spill [304]. There are thousands of oil spills every year [305] in the US alone.",518,5,-1
+521,"Cats kill 10000 times [306] more birds than all wind turbines around the world.",518,5,-1
+522,"Creating large scale wind farms that meet today's electricity demand would increase Continental US surface temperatures by 0.24°C. [307]",515,5,1
+523,"All energy sources have an environmental cost, so it is unrealistic to expect renewable energies to have no indirect environmental impact whatsoever.",515,5,-1
+524,"-> See 1.3.1.5.",515,5,1
+525,"-> See 1.3.5.7.4.",515,5,1
+526,"In December 2014 [308], an open letter signed by 75 leading conservation scientists called for the environmental community to accept nuclear power as a key part of the global energy mix, not only to reduce greenhouse gas emissions but also to conserve biodiversity.",514,5,1
+527,"A new paper [309] examining potential future energy sources based on their effects on biodiversity found, based on reviews of varying scenarios of energy usage in the future, that nuclear power is among the best possible options.",514,5,1
+528,"Nuclear reactors are extremely compact compared to other low-carbon power plants, freeing up space for natural ecosystems. To produce 1 TWh in a year, only 7 hectares are required using nuclear power plants, compared to about 2000 hectares using solar photovoltaic panels. Source [310]",514,5,1
+529,"The footprint impact is also related to qualitative attributes: there are many ways to reduce it: offshore wind turbines, photovolatic panels on rooftop/parkings, agrivoltaics [311] ...",528,5,-1
+530,"It may only be true until some major accident or accidental dispersion of used fuel (uranium) happens.",514,5,-1
+531,"The water used to cool nuclear plants warms up, when that water is released to the ecosystem it changes the thermal balance of the river it came from, disrupting [312] most fish and plants communities.",514,5,-1
+532,"-> See 1.3.5.8.8.1.",531,5,-1
+533,"The residual heat from the process could be used for district heating [313].",531,5,-1
+534,"Nuclear energy produces lower amounts of greenhouse gases than other forms of power, mitigating climate change.",513,5,1
+535,"The median lifecycle greenhouse gas emissions of coal power plants are 820 g of CO₂ equivalent for every kWh [314] of energy produced (68 times as much as nuclear).",534,5,1
+536,"Solar energy emits more greenhouse gases per kilowatt-hour than nuclear energy.",534,5,1
+537,"The median lifecycle greenhouse gas emissions of PV solar power plants [315] are 48 g of CO₂ equivalent for every kWh of energy produced [316] (4 times as much as nuclear).",536,5,1
+538,"The linked data is from 2014. PV technology changes fast.",537,5,-1
+539,"Different studies [317] reached the conclusion that when uranium mining, cooling towers, radioactive waste management and decommission are taken into account, nuclear carbon footprint values are around 68 to 180 g/kWh, which is higher than modern solar and wind.",536,5,-1
+540,"IPCC figures on which this claim is based are recognised by the authors as contingent on various factors which have been changing [318] recently (e.g. efficiency of solar panels improving).",536,5,-1
+541,"That something does not have greenhouse gas emissions does not automatically make it sustainable because greenhouse gases are only one aspect of sustainability. For instance, nuclear power relies on very destructive resource extraction [319] and has a potentially intractable waste problem. It is therefore still unsustainable.",534,5,-1
+542,"-> See 1.2.3.1.1.",541,5,1
+543,"CO2 is a significant threat to the environment.",534,5,1
+544,"Wind power and nuclear power produce similar amounts of greenhouse gases.",534,5,-1
+545,"The median lifecycle greenhouse gas emissions of wind power plants are 12 g of CO₂ equivalent for every kWh of energy produced [320] (about the same as nuclear).",544,5,1
+546,"Wind energy requires vastly more space which cannot be used for housing.",544,5,-1
+547,"Wind energy can be sited off-shore and in mountainous areas not suitable for either house building, or other large structures such as nuclear power stations.",546,5,-1
+548,"Given that a large part of the cost of any 'generator' site is the feed line link to the Grid we may see wind and solar (and water reservoir 'storage) co-located efficiently. This is not possible with nuclear and large scale fossil plants because of the risk of one problem being magnified by cascading into its neighbours.",547,5,1
+549,"Wind farms do not need to be large scale: a single wind turbine can be sited almost anywhere and still add to the total supply.",546,5,-1
+550,"Wind turbines have a very small footprint that means land around then can still be used for farming.",546,5,-1
+551,"One still needs to store the energy when considering wind power [321]. 1 kWh of wind energy isn't equivalent to 1 kWh of nuclear energy.",544,5,-1
+552,"The lifecycle CO2 emissions [322] of nuclear power plants are only 12 g of CO2 per kWh generated, putting it on par with wind power (11 g/kWh), lower than solar (45 g/kWh) and much lower than methane (490 g/kWh).",534,5,1
+553,"-> See 1.2.3.1.1.",552,5,-1
+554,"There is the possibility of what is called Nuclear [323] Cannibalism [324], which suggests that life-cycle emissions may outweigh carbon offsets.",534,5,-1
+555,"A 2012 [325] Yale University meta-analysis found that the median emissions of Nuclear energy were far lower than that found by Sovacool and Cooper, which ruled out the possibility of Nuclear Cannibalism in most instances of plant construction.",554,5,-1
+556,"The study above compares the average American Greenhouse Gas emissions - including 20% Nuclear Power = 695g/kWh to Nuclear Power alone (between 16 and 55 g/kWh) resulting in a factor of 12. It should rather compare emissions without nuclear (=(695-55*0.2)/0.8=805 g/kWh), which gives a factor of 14,6.",554,5,-1
+557,"Sufficient fission reactors cannot be built in time to prevent further climate change.",534,5,-1
+558,"Predicting the future is inherently assumptive and thus this cannot be stated as fact.",557,5,-1
+559,"In 1984, new nuclear reactors were built that produced 30GW extra in total. The world never built new nuclear plant faster than then, and has even slowed down to almost a halt [326].",557,5,-1
+560,"We would need to replace ~3000 GW of fossil fuel energy production to make a significant difference in global carbon emissions (Without Hot Air, p. 171 [327]).",557,5,1
+561,"In order to stabilize CO2 concentrations at about 450 ppm by 2050, global emissions would have to decline by about 60% [328] by 2050.",557,5,1
+562,"Wind farms are faster [329] to build: a 10 MW wind farm can easily be built in two months. A larger 50 MW wind farm can be built in six months.",557,5,1
+563,"Although this claim may be technically correct, politically it is not that easy. For example, an attempt to build a wind farm in Cape Cod ultimately failed after more than a decade [330].",562,5,-1
+564,"History provides proof [331] that nuclear is (together with hydro) a great way to decarbonize energy production (from environmental progress.)",557,5,-1
+565,"-> See 1.1.5.2.2.3.",557,5,-1
+566,"-> See 1.1.3.1.1.5.2.1.1.",557,5,1
+567,"Nuclear power does not produce greenhouse gases while operating. Controlled reaction produces heat, that heats water, that turns to steam and turns turbines.",534,5,1
+568,"Construction of nuclear power plants, mining and transportation of ore/fuel/waste, and other steps in the nuclear fuel cycle produce greenhouse gases, which harm the environment.",567,5,-1
+569,"Constructing any form of power generation produces greenhouse gasses.",568,5,-1
+570,"-> See 1.2.3.1.1.",568,5,1
+571,"-> See 1.1.3.1.1.4.",568,5,-1
+572,"Unlike fossil fuel power, there is no fundamental reason why this has to be so. If construction, mining, and transportation were battery-powered, and said batteries were charged by carbon-free power plants (like nuclear), then it would be carbon free also.",568,5,-1
+573,"Once installed, the plant does not make any further greenhouse gas except steam (vapours), which is harmless.",567,5,1
+574,"Steam is a greenhouse gas as well.",573,5,-1
+575,"And excess water vapor in the air will condense into more clouds, thus increasing the Earth's albedo [332]. Let's not forget that coal-fired plants also need a condenser for their boilers. Carbon dioxide, on the other hand, can only increase the greenhouse effect.",574,5,-1
+576,"Not all nuclear plants need to release steam into the atmosphere. Due to thermodynamics, any heat engine needs both a source and a sink for the heat, but the sink need not produce steam. It could simply dump warmed water back into a river, for example.",574,5,-1
+577,"-> See 1.5.1.6.",576,5,-1
+578,"Steam may be considered a greenhouse gas but it is not a pollutant. Steam does not harm or disturb the environment as other greenhouse gases do.",574,5,-1
+579,"The water vapour in the Earth's atmosphere is in equilibrium over time with liquid water in the oceans, lakes, rivers, etc. Adding steam to the atmosphere will not change this equilibrium -- it will just rain a bit more somewhere. Warming the atmosphere for other reasons does change the equilibrium, creating a positive feedback loop.",574,5,-1
+580,"Pollutants and toxins [333] may be released during the mining of uranium. This is not good for local wildlife",513,5,-1
+581,"-> See 1.5.2.9.1.",513,5,-1
+582,"Nuclear power plants require significant investments and resources [334] to function.",1,5,-1
+583,"Nuclear power produces nuclear waste.",1,5,-1
+584,"Under/Surface ground water source could be contaminated [335] by the radiating elements.",583,5,1
+585,"Even if we stopped operating nuclear power plants, we still would have to care for all the waste that was produced until now and the waste that is produced in other industry sectors like nuclear medicine. The amount of additional waste does not change the situation significantly.",583,5,-1
+586,"Future nuclear reactors (such as the Thorium based Molten Salt Reactor) will produce only 250 kilos [336] of low and medium-level radioactive waste per year.",583,5,-1
+587,"An energy transition to a low carbon economy in OECD countries before 2040 isn't easily achievable given these breeder technologies might not be ready for full scale implementation, see Brown et al (2018) [337].",586,5,-1
+588,"Typically, deployment time for nuclear energy programs is very large. It takes approximately thirty years [338] to deploy a new program fully.",587,5,1
+589,"In various scientific studies [339] the Thorium MSR is considered a promising choice and as an 'interesting option' for the reduction of nuclear waste and for years of production of nuclear energy.",586,5,1
+590,"Nuclear waste can be safely managed.",583,5,-1
+591,"Radioactive waste is difficult and expensive to clean up.",590,5,-1
+592,"Radioactive waste is a ceramic. It is easily stored and contained (especially after the first years in the spent fuel pool).",591,5,-1
+593,"The neutron radiation from nuclear reactors transmutes surrounding materials, often into unstable isotopes. Thus not all nuclear waste is ceramic.",592,5,-1
+594,"Nuclear fission breeder reactors generate 10-20% less waste than light water fission reactor designs.",590,5,1
+595,"Reversible geologic storage is a solution to storing nuclear waste.",590,5,1
+596,"Within a period of 1,000-10,000 years, the radioactivity of high-level waste decays to that of the originally mined ore.​ [340]",595,5,1
+597,"Long-term geological storage solutions can prevent any movement of radioactivity for thousands of years.​ [341]",595,5,1
+598,"Onkalo, a “massive underground tomb” in Finland, has recently been completed, storing more than 6,500 tons of radioactive waste safely for at least 100,000 [342] years.",595,5,1
+599,"This project is criticised [343] by environmental activists. The spokesman of Greenpeace in Finland said that “even the hardest bedrock we have on earth, which is here, will be cracked [..] we can’t be sure that the waste wouldn’t leak with groundwater into the Baltic Sea”.",598,5,-1
+600,"There is no guarantee that in 100,000 years, what we will have stored will still have a meaning to any species or human populating the planet. Therefore we could be keeping a time bomb underground. This is mainly what the documentary to which you are referring is saying, rather than making a light-hearted example of Onkalo.",598,5,-1
+601,"-> See 1.7.4.3.1.",600,5,-1
+602,"Frankly, the unlikely scenario of several people being irradiated in the far future because they don't understand the warnings is a small problem compared to the thousands of people killed every year by fossil power plant pollution.",600,5,-1
+603,"If a civilization is smart enough to dig that deep, they're smart enough not to dig that deep.",600,5,-1
+604,"Groundwater might reach reversible geologic storage of nuclear waste.",595,5,-1
+605,"Nuclear waste is vitrified, making it highly resistant to water.",604,5,-1
+606,"Nuclear waste is stored in watertight stainless steel containers.",604,5,-1
+607,"Future generations might forget about our nuclear waste.",595,5,-1
+608,"After 40 years [344], the radioactivity of used fuel has decreased to about one-thousandth of the level at the point when it was unloaded.",607,5,-1
+609,"Future civilizations will be able to understand our current instructions and messages.",607,5,-1
+610,"Ancient Egyptian instructions were difficult to decipher and probably only readable by late 18th century archeologist because of the Rosetta Stone [345].",609,5,-1
+611,"Radioactive waste could be dumped into the sun.",590,5,1
+612,"With even a half-completed orbital ring [346], we can throw every bit of waste into space/the sun, at cost of magnetically accelerating it to desired speed. Since we may have orbital ring completed in about 200 years, this is easy way out of waste storage problem.",611,5,1
+613,"An orbital ring will not solve the risk of transport to the ring.",612,5,-1
+614,"The shuttle might explode during take off.",613,5,1
+615,"Stating that we can use orbital rings to deal with the problems associated with nuclear waste is unhelpful, since orbital rings do not exist, and are unlikely to exist any time soon.",612,5,-1
+616,"Dumping nuclear waste in the sun would be extremely expensive. The cost to transport 1 lb of matter to the sun is about $8 million [347].  The nuclear power industry has produced a total of 76,430 metric tons [348] of used nuclear fuel. To transport this all into the sun would cost over one quadrillion dollars [349].",611,5,-1
+617,"""a Falcon 9 launch costs an average of $57 million, which works out to less than $2,500 per pound to orbit"" -- airspacemag.com [350]  A Falcon Heavy is about the same.  This makes the cost of disposing of the current total 421 billion USD, which is by no means an unmanageable number even as a one-time payment, much less spread out over a couple of decades.",616,5,-1
+618,"Putting waste into low earth orbit is not disposing of it.  It would need to be raised to escape velocity on a path that doesn't intersect with the Earth in the future.",617,5,-1
+619,"7% of unmanned rocket launches fail catastrophically [351].  This would drop large amounts of nuclear waste over inhabited areas.",611,5,-1
+620,"-> See 1.1.3.1.1.5.2.",590,5,1
+621,"It is predicted that by year 2125, there will be approx. 5 million tonnes of nuclear waste, which is equivalent to a modern stadium, reactive waste management [352]. If we project this on to 10,000 years, we are still only talking about 100 stadiums-worth of space spread out across the globe, before the waste becomes safe again.",590,5,1
+622,"It is less about the quantity of nuclear waste. It is about the duration it needs to be taken care of, up to 10,000 years. There is not a single thing man has been able to take care for such a long time.",590,5,-1
+623,"Waste processing systems could be developed in the future that could reduce the activity of the nuclear waste, thereby rendering it safer in a much shorter time frame.",622,5,-1
+624,"Spent fuel contains fission products (the new atoms you get after splitting uranium atoms), whose radioactivity drops below that of the original uranium after 300-500 years. So we can keep a tight limit [353] on the total amount of hazardous and long-lived waste.",622,5,-1
+625,"There are currently a number of options for storing and using nuclear waste.",622,5,-1
+626,"Long-lived nuclear waste consists of actinides (including plutonium), which can be destroyed by burning them in a waste-burning reactor [354].",625,5,1
+627,"These options are impossible to reliably test over the time scales they would need to work.",625,5,-1
+628,"-> See 1.7.4.4.",625,5,1
+629,"The Oklo natural nuclear reactor [355] in Gabon was contained for 1.7 billion years, while current long term storage is developed with a lifespan in the order of millions of years.",625,5,1
+630,"As far as I know there is no scientific paper showing that this Oklo natural reactor is a pertinent model when it comes to nuclear waste long-term repositories. Waiting for someone providing a reference to such a communication.",629,5,-1
+631,"Naturally occurring radio nuclides such as U238 and U235 exist in the environment in large quantities, including in ocean water. This is the source of Radon which causes a large fraction of the dose every human receives.",622,5,-1
+632,"There are no operational long-term storage facilities for high-level radioactive waste today. (Source: IPCC, SR15, chapter 5, page 52, url: report.ipcc.ch [356])",622,5,1
+633,"High-level waste does not need to be stored long-term. Either the half-life is long or the radiation is intense.",632,5,-1
+634,"The more rapidly the atoms in a radioactive substance decay, the more particles they must emit per second as they do so",633,5,1
+635,"Onkalo [357] in Finland will be operational in 2023.",632,5,-1
+636,"The carbon from fossil fuels will also linger in the environment a very long time.",632,5,-1
+637,"As much as excess carbon is a pollutant, it is still a natural part of the biotic and abiotic environment (see the carbon cycle). Thus it can be incorporated into living organisms readily. Nuclear waste on the other hand is non-natural and does not integrate into the environment without harmful effects on living organisms.",636,5,-1
+638,"The environment is already naturally radioactive. Background radiation levels vary with location (due to mineral deposits) and altitude, due to celestial sources, like the sun and cosmic rays. Even some foods are naturally more radioactive than others due to their mineral content. If the radiation dose is less than eating a banana [358], it can hardly be called pollution.",637,5,-1
+639,"Humans, along with all other animals, microbes and plant life have evolved through millions of years in an environment where the levels of ionizing radiation was about 10 times higher than today's global average of about 3-6 mSv annually. All organisms have mechanisms in place to repair any damage to its DNA, whether it is from oxidation or ionizing radiation.",637,5,-1
+640,"-> See 1.1.3.1.1.5.",590,5,1
+641,"Bill Gates developed a prototype [359] of a reactor that uses nuclear waste to work.",583,5,-1
+642,"There are new nuclear approaches in development which may enter in industrial service, however there is no certainty nor delivery date, therefore they are not solutions to the problem.",641,5,-1
+643,"Whether we ""need"" those new reactors or not is not the issue, but as if we cannot build them, then they are not an option.",642,5,1
+644,"Nuclear energy produces very little waste: a 1GW reactor produces only 3 cubic meters of high-level waste per year, which can be stored safely, while a 1GW coal power plant releases into the atmosphere 300,000 tons of ash and 6 million tons of CO2. Source: WNA [360]",583,5,-1
+645,"Nuclear power plants produce high-level radioactive waste [361] (Tc-99, I-129 for example) which can be lethal for most forms of life and can still be dangerous for thousands of years.",583,5,1
+646,"With such a long half-life, I-129 is not lethal and probably not carcinogenic in any practical dose [362]. There is no evidence that I-129 is harmful to the environment.",645,5,-1
+647,"Absence of evidence is not evidence of absence.",646,5,-1
+648,"-> See 1.1.3.1.1.3.",583,5,-1
+649,"Nuclear waste is regularly released into the environment [363].",583,5,1
+650,"""The Tokyo Electric Power Company (TEPCO) has reported that seawater containing radioactive iodine-131 at 5 million times the legal limit [364] has been detected near the plant. According to the Japanese news service, NHK, a recent sample also contained 1.1 million times the legal level of radioactive cesium-137.""",649,5,1
+651,"Small amounts of radioactive waste can contaminate huge areas (e.g. Fukushima and the Pacific basin), with unpredictable consequences ecologically or to people.",649,5,1
+652,"The eventual number of cancer deaths that will be caused by Fukushima is expected to be around 15 to 1300 [365] worldwide.",651,5,1
+653,"The Linear No Threshold model of radiation exposure has received very heavy criticism as scientific studies have pointed out radiation exposure has led to beneficial health effects in some populations. For example: www.ncbi.nlm.nih.gov [366]",652,5,-1
+654,"Local residents were forced to flee contaminated areas in the immediate aftermath of Fukushima, leaving behind their pets and livestock [367]. Thousands of animals perished as a result through starvation and cannibalism.",651,5,1
+655,"Fukushima has had little impact [368] on Japanese and Pacific Ecosystems.",651,5,-1
+656,"Effects of radiation are long term and cumulative.  It is not currently possible to assess those impacts that still lie in the future. ""The long-term fate of the contamination is still unknown, and information about how much radiation is stored in sediments and how much is still leaking from delayed sources, such as groundwater, has yet to be quantified."" www.sciencedaily.com [369]",655,5,-1
+657,"That is why it is being continually monitored and it has been shown local ecosystems have already recovered from short term mutagenic and other radiation-related impacts. As time wears on, the likelihood of continued damage dramatically decreases.",656,5,-1
+658,"Effects of radiation are not cumulative, nor are they long term. Doses below 100 mSv pr year has no statistically significant negative impact on the health of adult humans.",656,5,-1
+659,"-> See 1.7.4.7.5.3.1.2.",658,5,1
+660,"-> See 1.4.7.6.",651,5,-1
+661,"Tritium is by far the most common nuclide effluent. It is a natural product of cosmic rays bombarding the Earth. Tritium has a concentration in natural hydrogen of around 1e-19. It has a biological half-life of 10 days and the medical history of tritium exposure [370] has resulted in only minor injuries.",649,5,-1
+662,"-> See 1.7.4.7.5.3.1.1.",661,5,1
+663,"We can study the effects of natural fission reactors, such as the Oklo site, [371] to see that in practical terms fission products do not tend to leech into the surrounding rock strata.",649,5,-1
+664,"Ca137 dilutes [372] over the huge area of the Earth's oceans. Chernobyl emitted a large amount of radiation (Fukushima was mostly contained because of its superstructure), but nuclear weapons testing resulted in 30 times the amount of Cs137 currently present on the Earth's surface.",649,5,-1
+665,"-> See 1.5.1.6.",649,5,1
+666,"Several nuclear waste deposits in Italy [373] spilled and contaminated the environment.",649,5,1
+667,"Water inflow into the German nuclear waste storage facility at Asse [374] threatened the integrity of the mine.",649,5,1
+668,"-> See 1.7.4.7.",583,5,1
+669,"The best available technology for depositing high-level radioactive waste requires deep, stable geological formations, which is not feasible for many countries. (Source: IAEA Safety Standards: Classification of radioactive waste, link: www-pub.iaea.org [375])",583,5,1
+670,"The best available technology for disposing of high-level waste is a fast neutron reactor. We've had these since the 1950s [376].",669,5,-1
+671,"Not all countries have suitable geological formations to use the technology but they can export the waste [377] to countries that have.",669,5,-1
