@@ -202,13 +202,16 @@ function drawArcs(svg, node, centerX, centerY, radius, startAngle, endAngle, dep
             hoverDiv.style.position = 'absolute';
             hoverDiv.style.background = 'rgba(0, 0, 0, 0.8)';
             hoverDiv.style.color = 'white';
-            hoverDiv.style.padding = '5px';
+            hoverDiv.style.padding = '10px';
             hoverDiv.style.borderRadius = '5px';
             hoverDiv.style.pointerEvents = 'none';
             hoverDiv.style.left = `${event.pageX}px`;
             hoverDiv.style.top = `${event.pageY}px`;
             hoverDiv.style.opacity = '0';
             hoverDiv.style.transition = 'opacity 0.3s ease';
+            hoverDiv.style.width = '200px'; // Fixed width
+            hoverDiv.style.wordWrap = 'break-word'; // Ensure long words don't overflow
+            hoverDiv.style.textAlign = currentLocale === 'fa' ? 'right' : 'left'; // Align text based on language
             document.body.appendChild(hoverDiv);
             setTimeout(() => {
                 hoverDiv.style.opacity = '1';
@@ -367,7 +370,7 @@ languageSelector.appendChild(enOption);
 languageSelector.appendChild(faOption);
 
 // Insert the language selector at the beginning of the body
-document.body.insertBefore(languageSelector, document.body.firstChild);
+// document.body.insertBefore(languageSelector, document.body.firstChild);
 
 languageSelector.addEventListener('change', (event) => {
   currentLocale = event.target.value;
@@ -375,7 +378,7 @@ languageSelector.addEventListener('change', (event) => {
 });
 
 function loadLocale(locale) {
-  fetch(`locales/${locale}.json`)
+  fetch(`https://raw.githubusercontent.com/eledah/mokaleme/main/locales/${locale}.json`)
     .then(response => response.json())
     .then(data => {
       localeData = data;
@@ -408,7 +411,7 @@ console.log(currentLocale)
 loadLocale(currentLocale);
 
 // Load renewable.csv by default
-fetch('renewable.csv')
+fetch('https://raw.githubusercontent.com/eledah/mokaleme/main/output.csv')
   .then(response => response.text())
   .then(csvData => buildGraph(csvData))
   .catch(error => console.error('Error loading renewable.csv:', error));
