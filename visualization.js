@@ -378,7 +378,7 @@ languageSelector.addEventListener('change', (event) => {
 });
 
 function loadLocale(locale) {
-  fetch(`https://raw.githubusercontent.com/eledah/mokaleme/main/locales/${locale}.json`)
+  fetch(`https://cdn.jsdelivr.net/gh/eledah/mokaleme@latest/locales/${locale}.json`)
     .then(response => response.json())
     .then(data => {
       localeData = data;
@@ -411,7 +411,7 @@ console.log(currentLocale)
 loadLocale(currentLocale);
 
 // Load renewable.csv by default
-fetch('https://raw.githubusercontent.com/eledah/mokaleme/main/output.csv')
+fetch('https://cdn.jsdelivr.net/gh/eledah/mokaleme@latest/output.csv')
   .then(response => response.text())
   .then(csvData => buildGraph(csvData))
   .catch(error => console.error('Error loading renewable.csv:', error));
