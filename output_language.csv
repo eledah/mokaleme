@@ -9,7 +9,7 @@ id,text,parent_id,weight,sentiment
 8,"It is possible to speak the same language and still have cultural diversity. This is evident by the stark difference in the cultural practices of countries who have a majority of native English speakers.",2,5,-1
 9,"The United Kingdom [5] and Australia [6] both have a majority of native English speakers and yet there are vast [7] cultural differences [8] between the two.",8,5,1
 10,"A universal language would eradicate the negative effects of linguistic imperialism and linguicism [9].",2,5,-1
-11,"Any universal language created would inevitably favour one language or language group more than others, which would spark inequity.",5,10,-1
+11,"Any universal language created would inevitably favour one language or language group more than others, which would spark inequity.",10,5,-1
 12,"It is not necessary for the chosen universal language to be an existing language. A new, universally accessible language can be created specially for this purpose.",11,5,-1
 13,"Despite varying amounts of overlap, each language has a unique [10] set of phonemes used in that language. Creating a universally accessible one - utilising sounds that all humans could make - would thus be impossible.",12,5,-1
 14,"Just as with learning any other foreign language, people can learn to pronounce the phonemes of a universal language if they have to. For example, many people learn English as a foreign language and speak it clearly, despite some of the rare phonemes it has like the ""th"" sound.",13,5,-1
@@ -29,31 +29,31 @@ id,text,parent_id,weight,sentiment
 28,"The most logical way to select a universal language would be to choose the most spoken one currently; however, this would mean billions of people would have to learn Mandarin Chinese [15], a very challenging language.",11,5,1
 29,"The most spoken language is English. For the purposes of a universal second language it would make more sense to use the language with most speakers instead of the language with most native speakers.",28,5,-1
 30,"English [16] is also a challenging language to learn.",29,5,-1
-31,"Currently, an EU language regime based on English, French and German would disenfranchise 26% to 49% [17] of EU residents.",5,10,1
+31,"Currently, an EU language regime based on English, French and German would disenfranchise 26% to 49% [17] of EU residents.",10,5,1
 32,"EU citizens who did not speak those 3 languages would not have immediate and equal access to EU legal documents, official publications, announcements, or parliamentary debates, and would therefore not have as immediate and equal access to the benefits that such information could bring.",31,5,1
-33,"Linguistic hierarchies stemming from colonial times persist in much of the world, meaning that there are currently inevitable barriers to success for those who do not speak a lingua franca as their mother tongue.",5,10,1
+33,"Linguistic hierarchies stemming from colonial times persist in much of the world, meaning that there are currently inevitable barriers to success for those who do not speak a lingua franca as their mother tongue.",10,5,1
 34,"English and other languages historically spoken by the wealthier parts of the world dominate the world of commerce, meaning that it is most often the already-privileged who are able to participate most successfully in international business.",33,5,1
 35,"Research shows that students in countries like Bangladesh [18] and Nigeria [19] have to face socio-economic disadvantages because of their inability to afford good English lessons.",34,5,1
 36,"Many non-standard dialects and creoles deriving from a mixture of languages and cultures are often viewed as substandard, and people can be discriminated against for use of this language.",33,5,1
 37,"Having one universal language will not solve this problem and people will still have different dialects, based on their own upbringing and culture. This can already be seen in the case of American English, which has 24 different dialects [20].",36,5,-1
 38,"AAVE (African American Vernacular English) is often stigmatised [21] as a lazy or unintelligent dialect of English.",36,5,1
-39,"Creating a universal language to smooth over the issue of linguicism is to sweep prejudice and discrimination under the carpet. These issues should be addressed at the root and not merely on a surface level.",5,10,-1
-40,"-> See 1.1.3.1.5.",5,10,-1
-41,"A universal language would benefit the privileged and wealthy and put vulnerable and low-income citizens at a disadvantage.",5,10,-1
-42,"-> See 1.1.3.1.",41,5,1
+39,"Creating a universal language to smooth over the issue of linguicism is to sweep prejudice and discrimination under the carpet. These issues should be addressed at the root and not merely on a surface level.",10,5,-1
+40,"The universal language would most likely be determined by the powerful.",10,5,-1
+41,"A universal language would benefit the privileged and wealthy and put vulnerable and low-income citizens at a disadvantage.",10,5,-1
+42,"Any universal language created would inevitably favour one language or language group more than others, which would spark inequity.",41,5,1
 43,"Citizens who are unable to learn the new universal language would be excluded from public discourse as well from political and economic life.",41,5,1
 44,"Women, especially those who are stay-at-home housewives, are likely to be excluded as studies have found that employed men learn a new language faster than stay-at-home housewives (Linguistic Diversity and Social Justice, p.49 [22]).",43,5,1
 45,"A very high number of low-income Indians can not understand government documents and tax returns in India [23], where English is the official language in addition to various native languages.",43,5,1
 46,"All humans speak a language meaning they have the ability to learn language.",43,5,-1
 47,"The Critical Period [24] theory states that the human capability to acquire language to a native level is lost after childhood.",46,5,-1
 48,"MIT Scientists conducted 2018 studies that proved many adult-learners - and not just children - capable of reaching native-like fluency [25] in a second language.",47,5,-1
-49,"-> See 1.1.3.1.6.",46,5,-1
+49,"Learning resources for and exposure to a universal language would vary from nation to nation depending on many different and diffult-to-control factors. While all humans have the ability to acquire a universal language, not all will have the same accessibility to learning that language.",46,5,-1
 50,"In particular the elderly would have issues with learning a new language.",43,5,1
 51,"A study found that older brains [26] are slower due to years of stored up information.",50,5,1
 52,"Teach the language only to the students until only people who know the language are still alive.",50,5,-1
 53,"It is a matter of how rather than whether to implement. Although possible exclusion may be an obstacle to adopting a universal language, the same can be said for any monolingual language policies such as those related to implementing a national language of a newly made country, but the obstacle does not undervalue the potential benefits of a national language as this is more of a question of implementation.",43,5,-1
 54,"Establishing a national language for a newly made country typically means that the majority of individuals living in said country already speak the language, and thus there is minimal to no extra teaching required. If the country is developing a new language, typically it is heavily derived, if not a variation, of a preexisting language (take U.S. English vs. British English) in which the same rules apply.",53,5,-1
-55,"-> See 1.1.3.1.5.1.",5,10,1
+55,"In medieval times, French was a dominant [12] universal language due to the importance of the French Court and Empire at the time.",10,5,1
 56,"Differences between languages are often due to differing cultures [27]. A specific language reflects a specific culture; to sideline different native languages in favour of a universal one would be to sideline cultural diversity.",2,5,1
 57,"Without linguistic and cultural variation, once-different linguistic and/or cultural groups would be more vulnerable to problematic or dangerous group thought and propaganda on a global scale.",2,5,1
 58,"People could still retain their mother tongue while learning to be conversant in a universal language.",2,5,-1
@@ -91,7 +91,7 @@ id,text,parent_id,weight,sentiment
 90,"Tradition contributes to the sense of belonging and gives people identity.",89,5,1
 91,"societies are constantly appropriating traditions from other cultures. Nothing is stagnant.",89,5,-1
 92,"Traditionalism tends to have, at least in most cases, a negative affect. Traditions and culture can be and tend to be, separate.",84,5,-1
-93,"-> See 1.1.9.2.",84,5,-1
+93,"Having a universal language would not mean banning other languages. People would still be able to speak their native language and learn other people's languages if they so wished.",84,5,-1
 94,"A universal language would reveal and strengthen our common humanity across the globe and across cultures.",1,5,1
 95,"Personal misunderstandings could be avoided if we all communicate in the same native language.",94,5,1
 96,"English has words from over 100 countries, so it is the most universal language. We may need an universal language call American that jettisons the antiquated English rules of pronunciation and spelling.",94,5,1
@@ -109,17 +109,17 @@ id,text,parent_id,weight,sentiment
 108,"The difficulties associated with the implementation of such a language would outweigh the benefits.",1,5,-1
 109,"Adoption would be a long-term project over hundreds of years, which would largely solve problems of learning and transmission of the UL.",108,5,-1
 110,"There is no language with enough users that it would not cause large revolts by the public over it being chosen as the universal language.",108,5,1
-111,"-> See 1.1.3.1.2.1.1.",110,5,-1
+111,"An entirely new language could be created instead of choosing an existing one.",110,5,-1
 112,"A acquisition of learning a universal language would be time-consuming.",108,5,1
 113,"Having a universal language is impossible, because in different parts of the world this language would change over time creating ""dialects of the universal language"", which would end up becoming languages different from each other.",108,5,1
 114,"People who speak a common language do not develop different dialects simply as a direct consequence of living in different places, but as a consequence of not using the common language between each other due to geographical barriers. As modern technology breaks down such barriers to communication, there is no longer this reason for dialects to diverge.",113,5,-1
-115,"You are right but the physical barriers remain: even if there was only one language you would speak more with the people who live near you and whom you meet every day. Internet cannot prevent the creation of dialects because it cannot eliminate physical barriers. For example, those who live in Italy (like me) would develop an ""Italian dialect"", because Italians would talk more with other Italians they live with. In fact, even if I know English, I (obviously) speak a lot more with other Italians.",114,5,-1
+115,"You are right but the physical barriers remain: even if there was only one language you would speak more with the people who live near you and whom you meet every day. Internet cannot prevent the creation of dialects because it cannot eliminate physical barriers. For example, those who live in Italy (like me) would develop an Italian dialect, because Italians would talk more with other Italians they live with. In fact, even if I know English, I (obviously) speak a lot more with other Italians.",114,5,-1
 116,"it is easier to understand a different dialect of your native language than it is to understand a completely foreign language.",113,5,-1
 117,"Different dialects of English are spoken in Australia, the UK, and the USA, but any one of these dialects is easily understandable to a speaker of any other dialect.",116,5,1
 118,"In the globalized world, and after such a universal language has been established, dialects would not become separate languages anymore.",113,5,-1
 119,"Math could benefit from a universal language, i.e. characters and symbols used.",108,5,-1
-120,"-> See 1.1.3.1.1.1.",108,5,1
-121,"-> See 1.1.3.1.6.",108,5,1
+120,"Despite varying amounts of overlap, each language has a unique [10] set of phonemes used in that language. Creating a universally accessible one - utilising sounds that all humans could make - would thus be impossible.",108,5,1
+121,"Learning resources for and exposure to a universal language would vary from nation to nation depending on many different and diffult-to-control factors. While all humans have the ability to acquire a universal language, not all will have the same accessibility to learning that language.",108,5,1
 122,"A universal language would benefit the economy and society.",1,5,1
 123,"A common language [38] helps build trust in trading and business relationships.",122,5,1
 124,"Trust is key factor [39] for successful transactions and business.",123,5,1
@@ -133,48 +133,119 @@ id,text,parent_id,weight,sentiment
 132,"Adopting a universal language would result in a greater number of people speaking it, reducing the competitive advantage mentioned.",131,5,-1
 133,"English is already a widely adopted second language, indicating this practice is beneficial and has widespread support.",122,5,1
 134,"Data indicates that in most countries of Europe [42], most adults have at least a moderate proficiency of English. Worldwide, as of 2023, at least 63 countries [43] have an EF English Proficiency Index of at least moderate proficiency when not including countries where English is the main native language.",133,5,1
-135,"It can make work more efficient and help eliminate redundant duplicate work such as when things are written again in another English or translation requirements. In science, the widespread practice of publishing studies in English proves such advantages.",122,5,1
-136,"A universal language is not needed or not very beneficial anymore now that machine translation, with tools like SoniTranslate [44] or DeepL [45], is approximating efficacy that enables swift translation across languages.",122,5,-1
-137,"A universal language would be instrumental in improving international relations.",1,5,1
-138,"At least 91 languages [46] in the world have 10 million first language speakers but the United Nations only has 6 official [47] languages.",137,5,1
-139,"Translating some languages can be expensive [48] and time-consuming, which can cause delays [49] in the translation of important documents.",137,5,1
-140,"More than 450,000 pages [50] per year are translated by the UN’s Text Processing Units.",139,5,1
-141,"Translation errors may occur in the process, leading to misunderstandings.",139,5,1
-142,"Different languages are not a huge barrier when it comes to international relations because every country has interpreters [51], translators, politicians, diplomats and advisers that are fluent in foreign languages.",137,5,-1
-143,"90 per cent [52] of the British Diplomatic Service lacks recognized language abilities or language confidence for the country where they are posted, which makes Britain lose out on trade deals.",142,5,-1
-144,"Only one third [53] of British diplomats working in Arab countries are fluent in Arabic.",143,5,1
-145,"International relations would be much easier if they didn't have to go through those translators.",142,5,-1
-146,"International relations may not be bettered even with a universal language as exemplified by the ongoing hostility between North and South Korea despite sharing a common tongue.",137,5,-1
-147,"Compared to the obvious alternative - universal adoption of an existing natural language - developing a universal constructed language is impractical and offers little benefit.",1,5,-1
-148,"Existing major languages already have hundreds of millions of speakers, whereas a new constructed language would have to start from zero.",147,5,1
-149,"Esperanto failed because it was difficult to find other speakers, is it was not anyone's mother tongue [54].",148,5,1
-150,"The English language has more words from other languages that any other, making it a naturally universal language with no necessary edict.",148,5,-1
-151,"English is a constantly changing language. It used to be a language where every letter in a word had a sound when spoken i.e., no silent letters.",148,5,-1
-152,"The primary benefits of a universal language would come from its being universal, not anything specific to a constructed language.",147,5,1
-153,"Hangul, the Korean writing system, was specifically constructed to be easy to learn [55]. Despite being wholly constructed, it remains a simple and efficient means of communication.",147,5,-1
-154,"Constructing a writing system for an existing language and convincing its speakers to use it is a wholly different challenge from constructing an entire new language and convincing people to learn it.",153,5,-1
-155,"A constructed universal language could be designed for more efficient, easier, and clearer communication than any current language.",147,5,-1
-156,"The adoption of an existing natural language to be universalised could wage war between nations who believe their native language should be universally adopted.",147,5,-1
-157,"If linguistic relativity [56] is really a parameter, then an universal language may limit humanity's ability to know/understand some concepts.",1,5,-1
-158,"According to a study [57], language seems to have an effect on neurology / cognition / brains – the language [58] connectome [59] is shaped by [60] factors that include native language [61] characteristics.",157,5,1
-159,"This does not concern only words or concepts only present in one language or e.g. concepts' climaxes but also grammatical characteristics and so on such as communicability of relations or how words are combined.",157,5,1
-160,"Adopting a universal language is not exclusive – people could commonly be or remain bilingual or poly-lingual.",157,5,-1
-161,"-> See 1.1.6.1.",160,5,1
-162,"-> See 1.1.6.2.",160,5,-1
-163,"-> See 1.1.6.3.",160,5,1
-164,"To translate every culture's sayings would be impossible, due to some words essentially equating to phrases that are heavily culture dependent. A universal language would inherently be culture neutral and therefore such words/phrases would be impossible to translate into a universal language.",157,5,1
-165,"People have different needs and functionality, and one language could not be made to suit everyone.",1,5,-1
-166,"Some people need a sign language. Some people need a spoken language.",165,5,1
-167,"-> See 1.1.3.6.",1,5,-1
-168,"This would eradicate the struggle of learning a new language when entering a new country.",1,5,1
-169,"Currently, immigrants struggle to integrate into new countries because of language barriers. This has led to countries like Germany [62] introducing strict integration laws that require immigrants to take language classes. A universal language will eradicate these issues.",168,5,1
-170,"It would take a considerable amount of time for a universal language to be developed, learned by teachers, and taught to everyone in the world before being able to eradicate language barriers.",169,5,-1
-171,"It is difficult to gain employment without speaking the official language of a new country, which leads to difficulties in sustaining yourself and your family [63].",168,5,1
-172,"Without learning the language of the new country, it is difficult for refugees [64] to get a job and earn a living.",171,5,1
-173,"Almost five per cent [65] of the people living in Toronto cannot speak either of Canada’s official languages, English or French. Over 35 per cent of those people who cannot speak an official language are in poverty and cannot find employment.",171,5,1
-174,"The universal language would most likely be used differently in different countries: unique dialects and idioms will be created.",168,5,-1
-175,"If the universal language is centrally planned, everyone could have access to the correct use of that language. With better communication technologies it's much easier to maintain a common form for a language.",174,5,-1
-176,"-> See 1.3.4.2.",174,5,-1
-177,"Learning a new language is an important part of getting to know a culture.",168,5,-1
-178,"This frees up people's time and capacities for more meaningful or useful things to learn.",168,5,1
-179,"-> See 1.1.12.",1,5,-1
+135,"English Wikipedia has far more articles than any other language [44] WP, higher quality more in-depth content [45], is the most read [46] WP, is the most actively edited [47] WP, and is used as the main WP in the largest number of countries [48].",133,5,1
+136,"It can make work more efficient and help eliminate redundant duplicate work such as when things are written again in another English or translation requirements. In science, the widespread practice of publishing studies in English proves such advantages.",122,5,1
+137,"A universal language is not needed or not very beneficial anymore now that machine translation, with tools like SoniTranslate [49] or DeepL [50], is approximating efficacy that enables swift translation across languages.",122,5,-1
+138,"A universal language would be instrumental in improving international relations.",1,5,1
+139,"At least 91 languages [51] in the world have 10 million first language speakers but the United Nations only has 6 official [52] languages.",138,5,1
+140,"Translating some languages can be expensive [53] and time-consuming, which can cause delays [54] in the translation of important documents.",138,5,1
+141,"More than 450,000 pages [55] per year are translated by the UN’s Text Processing Units.",140,5,1
+142,"Translation errors may occur in the process, leading to misunderstandings.",140,5,1
+143,"Different languages are not a huge barrier when it comes to international relations because every country has interpreters [56], translators, politicians, diplomats and advisers that are fluent in foreign languages.",138,5,-1
+144,"90 per cent [57] of the British Diplomatic Service lacks recognized language abilities or language confidence for the country where they are posted, which makes Britain lose out on trade deals.",143,5,-1
+145,"Only one third [58] of British diplomats working in Arab countries are fluent in Arabic.",144,5,1
+146,"International relations would be much easier if they didn't have to go through those translators.",143,5,-1
+147,"International relations may not be bettered even with a universal language as exemplified by the ongoing hostility between North and South Korea despite sharing a common tongue.",138,5,-1
+148,"Compared to the obvious alternative - universal adoption of an existing natural language - developing a universal constructed language is impractical and offers little benefit.",1,5,-1
+149,"Existing major languages already have hundreds of millions of speakers, whereas a new constructed language would have to start from zero.",148,5,1
+150,"Esperanto failed because it was difficult to find other speakers, is it was not anyone's mother tongue [59].",149,5,1
+151,"The English language has more words from other languages than any other, making it a naturally universal language with no necessary edict.",149,5,-1
+152,"English is a constantly changing language. It used to be a language where every letter in a word had a sound when spoken i.e., no silent letters.",149,5,-1
+153,"The primary benefits of a universal language would come from its being universal, not anything specific to a constructed language.",148,5,1
+154,"Hangul, the Korean writing system, was specifically constructed to be easy to learn [60]. Despite being wholly constructed, it remains a simple and efficient means of communication.",148,5,-1
+155,"Constructing a writing system for an existing language and convincing its speakers to use it is a wholly different challenge from constructing an entire new language and convincing people to learn it.",154,5,-1
+156,"A constructed universal language could be designed for more efficient, easier, and clearer communication than any current language.",148,5,-1
+157,"The adoption of an existing natural language to be universalised could wage war between nations who believe their native language should be universally adopted.",148,5,-1
+158,"If linguistic relativity [61] is really a parameter, then an universal language may limit humanity's ability to know/understand some concepts.",1,5,-1
+159,"According to a study [62], language seems to have an effect on neurology / cognition / brains – the language [63] connectome [64] is shaped by [65] factors that include native language [66] characteristics.",158,5,1
+160,"This does not concern only words or concepts only present in one language or e.g. concepts' climaxes but also grammatical characteristics and so on such as communicability of relations or how words are combined.",158,5,1
+161,"Adopting a universal language is not exclusive – people could commonly be or remain bilingual or poly-lingual.",158,5,-1
+162,"Although English is an unofficial language in India, people also retain their regional languages and can converse in both.",161,5,1
+163,"Learning two languages would be difficult and people would slowly lose their mother tongues in favor of the universal language.",161,5,-1
+164,"The universal language could also get translated to people's local or second preferred language using AI tools such as DeepL [28] and novel e.g. GPT-based systems [29].",161,5,1
+165,"To translate every culture's sayings would be impossible, due to some words essentially equating to phrases that are heavily culture dependent. A universal language would inherently be culture neutral and therefore such words/phrases would be impossible to translate into a universal language.",158,5,1
+166,"People have different needs and functionality, and one language could not be made to suit everyone.",1,5,-1
+167,"Some people need a sign language. Some people need a spoken language.",166,5,1
+168,"A universal language would benefit the privileged and wealthy and put vulnerable and low-income citizens at a disadvantage.",1,5,-1
+169,"This would eradicate the struggle of learning a new language when entering a new country.",1,5,1
+170,"Currently, immigrants struggle to integrate into new countries because of language barriers. This has led to countries like Germany [67] introducing strict integration laws that require immigrants to take language classes. A universal language will eradicate these issues.",169,5,1
+171,"It would take a considerable amount of time for a universal language to be developed, learned by teachers, and taught to everyone in the world before being able to eradicate language barriers.",170,5,-1
+172,"It is difficult to gain employment without speaking the official language of a new country, which leads to difficulties in sustaining yourself and your family [68].",169,5,1
+173,"Without learning the language of the new country, it is difficult for refugees [69] to get a job and earn a living.",172,5,1
+174,"Almost five per cent [70] of the people living in Toronto cannot speak either of Canada’s official languages, English or French. Over 35 per cent of those people who cannot speak an official language are in poverty and cannot find employment.",172,5,1
+175,"The universal language would most likely be used differently in different countries: unique dialects and idioms will be created.",169,5,-1
+176,"If the universal language is centrally planned, everyone could have access to the correct use of that language. With better communication technologies it's much easier to maintain a common form for a language.",175,5,-1
+177,"it is easier to understand a different dialect of your native language than it is to understand a completely foreign language.",175,5,-1
+178,"Learning a new language is an important part of getting to know a culture.",169,5,-1
+179,"This frees up people's time and capacities for more meaningful or useful things to learn.",169,5,1
+180,"Adopting a universal language takes away traditionalism.",1,5,-1
+181,"In medieval times, French was a dominant [12] universal language due to the importance of the French Court and Empire at the time.",40,5,1
+182,"The current lingua franca of the world is English. Its international presence is in large part due to the British Empire [13]'s imposing of their language on the many countries they forcefully invaded and colonised.",40,5,1
+183,"The bridge languages of choice have not always been those of the most powerful group. Take, for instance, the story of the Indonesian language wherein Malay, the language of a minority group, was chosen over Javanese, the language of the majority and most powerful group.",40,5,-1
+184,"In the colonial era of Indonesia, Bahasa Malay was the language of commerce and politics [14]; thus, the language of the elite.",183,5,-1
+185,"It is not necessary for the chosen universal language to be an existing language. A new, universally accessible language can be created specially for this purpose.",42,5,-1
+186,"Despite varying amounts of overlap, each language has a unique [10] set of phonemes used in that language. Creating a universally accessible one - utilising sounds that all humans could make - would thus be impossible.",185,5,-1
+187,"Just as with learning any other foreign language, people can learn to pronounce the phonemes of a universal language if they have to. For example, many people learn English as a foreign language and speak it clearly, despite some of the rare phonemes it has like the ""th"" sound.",186,5,-1
+188,"A centrally planned and researched universal language could be designed to have a phoneme system based mostly on very common phonemes.",186,5,-1
+189,"Almost all [11] languages have the consonants p, t, k, m, n, and the vowels a i u; these could be the principal sounds chosen and then used in a universal language.",188,5,1
+190,"This inequity would only be a problem for the first few generations using the language. If the global effort to unify were gentle, gradual and spanning multiple generations, the changing pains would be minimized. If the change is gradual enough, we will only benefit from it.",42,5,-1
+191,"The sense of superiority initially gained by people whose language is adopted by others can remain and cause problems for hundreds of years.",190,5,-1
+192,"An entirely new language could be created instead of choosing an existing one.",191,5,-1
+193,"It is possible to create a very simple language which is easy for anyone to learn, regardless of their native language.",42,5,-1
+194,"If the universal language were decided on by public vote across the world, a democratic and fair decision could be reached and inequity mitigated.",42,5,-1
+195,"The universal language would most likely be determined by the powerful.",42,5,1
+196,"In medieval times, French was a dominant [12] universal language due to the importance of the French Court and Empire at the time.",195,5,1
+197,"The current lingua franca of the world is English. Its international presence is in large part due to the British Empire [13]'s imposing of their language on the many countries they forcefully invaded and colonised.",195,5,1
+198,"The bridge languages of choice have not always been those of the most powerful group. Take, for instance, the story of the Indonesian language wherein Malay, the language of a minority group, was chosen over Javanese, the language of the majority and most powerful group.",195,5,-1
+199,"In the colonial era of Indonesia, Bahasa Malay was the language of commerce and politics [14]; thus, the language of the elite.",198,5,-1
+200,"Learning resources for and exposure to a universal language would vary from nation to nation depending on many different and diffult-to-control factors. While all humans have the ability to acquire a universal language, not all will have the same accessibility to learning that language.",42,5,1
+201,"The most logical way to select a universal language would be to choose the most spoken one currently; however, this would mean billions of people would have to learn Mandarin Chinese [15], a very challenging language.",42,5,1
+202,"The most spoken language is English. For the purposes of a universal second language it would make more sense to use the language with most speakers instead of the language with most native speakers.",201,5,-1
+203,"English [16] is also a challenging language to learn.",202,5,-1
+204,"Just as with learning any other foreign language, people can learn to pronounce the phonemes of a universal language if they have to. For example, many people learn English as a foreign language and speak it clearly, despite some of the rare phonemes it has like the ""th"" sound.",120,5,-1
+205,"A centrally planned and researched universal language could be designed to have a phoneme system based mostly on very common phonemes.",120,5,-1
+206,"Almost all [11] languages have the consonants p, t, k, m, n, and the vowels a i u; these could be the principal sounds chosen and then used in a universal language.",205,5,1
+207,"Mother tongues are also constantly evolving, especially, because larger and larger groups need to communicate.",163,5,-1
+208,"These AI tools would defeat the purpose of a universal language.",164,5,-1
+209,"Any universal language created would inevitably favour one language or language group more than others, which would spark inequity.",168,5,1
+210,"It is not necessary for the chosen universal language to be an existing language. A new, universally accessible language can be created specially for this purpose.",209,5,-1
+211,"Despite varying amounts of overlap, each language has a unique [10] set of phonemes used in that language. Creating a universally accessible one - utilising sounds that all humans could make - would thus be impossible.",210,5,-1
+212,"Just as with learning any other foreign language, people can learn to pronounce the phonemes of a universal language if they have to. For example, many people learn English as a foreign language and speak it clearly, despite some of the rare phonemes it has like the ""th"" sound.",211,5,-1
+213,"A centrally planned and researched universal language could be designed to have a phoneme system based mostly on very common phonemes.",211,5,-1
+214,"Almost all [11] languages have the consonants p, t, k, m, n, and the vowels a i u; these could be the principal sounds chosen and then used in a universal language.",213,5,1
+215,"This inequity would only be a problem for the first few generations using the language. If the global effort to unify were gentle, gradual and spanning multiple generations, the changing pains would be minimized. If the change is gradual enough, we will only benefit from it.",209,5,-1
+216,"The sense of superiority initially gained by people whose language is adopted by others can remain and cause problems for hundreds of years.",215,5,-1
+217,"An entirely new language could be created instead of choosing an existing one.",216,5,-1
+218,"It is possible to create a very simple language which is easy for anyone to learn, regardless of their native language.",209,5,-1
+219,"If the universal language were decided on by public vote across the world, a democratic and fair decision could be reached and inequity mitigated.",209,5,-1
+220,"The universal language would most likely be determined by the powerful.",209,5,1
+221,"In medieval times, French was a dominant [12] universal language due to the importance of the French Court and Empire at the time.",220,5,1
+222,"The current lingua franca of the world is English. Its international presence is in large part due to the British Empire [13]'s imposing of their language on the many countries they forcefully invaded and colonised.",220,5,1
+223,"The bridge languages of choice have not always been those of the most powerful group. Take, for instance, the story of the Indonesian language wherein Malay, the language of a minority group, was chosen over Javanese, the language of the majority and most powerful group.",220,5,-1
+224,"In the colonial era of Indonesia, Bahasa Malay was the language of commerce and politics [14]; thus, the language of the elite.",223,5,-1
+225,"Learning resources for and exposure to a universal language would vary from nation to nation depending on many different and diffult-to-control factors. While all humans have the ability to acquire a universal language, not all will have the same accessibility to learning that language.",209,5,1
+226,"The most logical way to select a universal language would be to choose the most spoken one currently; however, this would mean billions of people would have to learn Mandarin Chinese [15], a very challenging language.",209,5,1
+227,"The most spoken language is English. For the purposes of a universal second language it would make more sense to use the language with most speakers instead of the language with most native speakers.",226,5,-1
+228,"English [16] is also a challenging language to learn.",227,5,-1
+229,"Citizens who are unable to learn the new universal language would be excluded from public discourse as well from political and economic life.",168,5,1
+230,"Women, especially those who are stay-at-home housewives, are likely to be excluded as studies have found that employed men learn a new language faster than stay-at-home housewives (Linguistic Diversity and Social Justice, p.49 [22]).",229,5,1
+231,"A very high number of low-income Indians can not understand government documents and tax returns in India [23], where English is the official language in addition to various native languages.",229,5,1
+232,"All humans speak a language meaning they have the ability to learn language.",229,5,-1
+233,"The Critical Period [24] theory states that the human capability to acquire language to a native level is lost after childhood.",232,5,-1
+234,"MIT Scientists conducted 2018 studies that proved many adult-learners - and not just children - capable of reaching native-like fluency [25] in a second language.",233,5,-1
+235,"Learning resources for and exposure to a universal language would vary from nation to nation depending on many different and diffult-to-control factors. While all humans have the ability to acquire a universal language, not all will have the same accessibility to learning that language.",232,5,-1
+236,"In particular the elderly would have issues with learning a new language.",229,5,1
+237,"A study found that older brains [26] are slower due to years of stored up information.",236,5,1
+238,"Teach the language only to the students until only people who know the language are still alive.",236,5,-1
+239,"It is a matter of how rather than whether to implement. Although possible exclusion may be an obstacle to adopting a universal language, the same can be said for any monolingual language policies such as those related to implementing a national language of a newly made country, but the obstacle does not undervalue the potential benefits of a national language as this is more of a question of implementation.",229,5,-1
+240,"Establishing a national language for a newly made country typically means that the majority of individuals living in said country already speak the language, and thus there is minimal to no extra teaching required. If the country is developing a new language, typically it is heavily derived, if not a variation, of a preexisting language (take U.S. English vs. British English) in which the same rules apply.",239,5,-1
+241,"Different dialects of English are spoken in Australia, the UK, and the USA, but any one of these dialects is easily understandable to a speaker of any other dialect.",177,5,1
+242,"As language is part of identity [36], this will take away one means of self-expression.",180,5,1
+243,"Having a universal language would not erase personality or culture entirely. In the same way that body language and gestures are used now, people would still find ways to express themselves through a universal language.",242,5,-1
+244,"It is impossible to learn some languages without learning about their culture because they are dependent heavily on context. A universal language will take away this unique aspect of some cultures.",180,5,1
+245,"The Japanese culture and language are linked [37] and it is impossible to learn one without the other.",244,5,1
+246,"Traditional beliefs or practices are important to both individuals as well as societies.",180,5,-1
+247,"Tradition contributes to the sense of belonging and gives people identity.",246,5,1
+248,"societies are constantly appropriating traditions from other cultures. Nothing is stagnant.",246,5,-1
+249,"Traditionalism tends to have, at least in most cases, a negative affect. Traditions and culture can be and tend to be, separate.",180,5,-1
+250,"Having a universal language would not mean banning other languages. People would still be able to speak their native language and learn other people's languages if they so wished.",180,5,-1
