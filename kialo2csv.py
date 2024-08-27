@@ -59,7 +59,8 @@ def write_csv(arguments, output_file):
 
 def main():
     input_file = 'input.txt'
-    output_file = 'output.csv'
+    output_file = 'output_God.csv'
+
     
     try:
         with open(input_file, 'r', encoding='utf-8') as file:
